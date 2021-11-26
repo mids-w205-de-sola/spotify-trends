@@ -1,0 +1,61 @@
+Spotify API general procedure:
+
+1. Create a dev account (https://developer.spotify.com/dashboard/applications), and from the dev account create any test application.
+2. From the test application, copy out the Client ID and Client Secret
+3. These must be passed into the script being used as parameters (see ping_api.py for details)
+
+Start to finish pipeline:
+
+- The environment is setup via docker-compose up -d
+
+- A playlists Kafka topic is created via
+
+docker-compose exec kafka kafka-topics --create --topic playlists --partitions 1 --replication-factor 1 --if-not-exists --zookeeper zookeeper:32181
+
+- A Flask server is created via ping_api.py, which listens for local pings and responds by querying the Spotify API for the details of the top 50 playlist. It is started via
+
+docker-compose exec mids env FLASK_APP=/w205/final-project-scratchpad/ping_api.py flask run --host 0.0.0.0
+
+- Pinging the server via docker-compose exec mids curl http://localhost:5000/ will generate a playlist dump and set it to Kafka
+
+- Use crontab to ping on a cadence:
+
+crontab -e to open the file
+
+contents:
+
+PATH="/usr/local/cuda/bin:/opt/conda/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games"
+0 16 * * * cd /home/jupyter/w205/final-project-scratchpad && docker-compose exec -T mids curl http://localhost:5000/ > /home/jupyter/w205/final-project-scratchpad/cronlog.log 2>&1
+
+The Linux machine is in UTC by default so 4pm is set on the cron to have it be 8am PST
+
+- The extract_playlists Spark job removes events from the Kafka queue and stores them as parquet files
+
+docker-compose exec spark spark-submit /w205/final-project-scratchpad/extract_playlists.py
+
+the following should show an extracted playlists folder:
+
+docker-compose exec cloudera hadoop fs -ls /tmp/
+
+to manually check the data:
+
+docker-compose exec spark pyspark
+
+read_playlists = spark.read.parquet('/tmp/extracted_playlists')
+read_playlists.show()
+
+to process the JSON more formally:
+
+value -> playlist_details -> tracks -> items
+
+produces a list of songs with details in order
+
+so json.loads(df.value[0])['playlist_details']['tracks']['items']
+
+will give you the 50 most popular songs from the earliest timestamp in the list, as JSON
+
+
+
+
+
+
