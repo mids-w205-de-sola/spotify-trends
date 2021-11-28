@@ -9,8 +9,8 @@ producer = KafkaProducer(bootstrap_servers='kafka:29092')
 
 def query_playlist():
     
-    CLIENT_ID = 'b39b8a244323474199cf99b3894997cc'
-    CLIENT_SECRET = '91f934e2c3c64bd5b6dd248fa7ab6843'
+    CLIENT_ID = '<id_here>'
+    CLIENT_SECRET = '<secret_here'
     AUTH_URL = 'https://accounts.spotify.com/api/token'
 
     auth_response = requests.post(AUTH_URL, {
