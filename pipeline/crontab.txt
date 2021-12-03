@@ -1,0 +1,4 @@
+PATH="/usr/local/cuda/bin:/opt/conda/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games"
+0 16 * * * cd /home/jupyter/w205/final-project-scratchpad && docker-compose exec -T mids curl http://localhost:5000/ > /home/jupyter/w205/final-project-scratchpad/cronping.log 2>&1
+15 16 * * * cd /home/jupyter/w205/final-project-scratchpad && docker-compose exec -T spark spark-submit /w205/final-project-scratchpad/extract_playlists.py > /home/jupyter/w205/final-project-scratchpad/$
+30 16 * * * cd /home/jupyter/w205/final-project-scratchpad && docker-compose exec -T spark python3 /w205/final-project-scratchpad/parquet_to_csv.py > /home/jupyter/w205/final-project-scratchpad/croncsv.$
