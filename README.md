@@ -6,6 +6,8 @@ Our project serves to assemble a pipeline that queries and stores the contents o
 
 ## Business Problem
 
+Spotify's "Wrapped" is an experience that allows listeners and creators to see theire trends on the app over the last year. A user's "Wrapped" is usually released around December 1st, but only contains data from January through mid-November. Therefore, there is often a "black-box" period around the holidays where listening trends are not recorded. Our group plans to build a data pipeline to capture this data and conduct a "sentiment" analysis of users around this period of time - specifically the last 2 weeks of November.
+
 ## File Directory
 
 README.md - You are here
