@@ -64,7 +64,7 @@ A breakdown of how data flows throughout the system is as follows:
     - 8:30am PT: read the contents of the parquet files and store them as CSVs for internal distribution.
     
 ## Analysis - Overview
-We wanted to understand how holiday songs impact the global top 50 for the time period between 11/17/2021 - 12/02/2021. We performed analysis to understand trends in 3 areas:
+We wanted to understand how holiday songs impact (along with sentiment) the global top 50 for the time period between 11/17/2021 - 12/02/2021. We performed analysis to understand trends in the following areas:
 1. How do songs in the top 50 for time period analyzed compare on metrics such as valence, danceability, tempo and energy? We looked at the median scores over the time period across all songs.
 2. We analyzed the frequency of artists appearing in the global top 50 during this time period to understand which artists were most popular.
 3. We also segreggated holiday songs from mainstream songs to compare metrics such as valence, danceability, tempo and energy and tempo for each group.
