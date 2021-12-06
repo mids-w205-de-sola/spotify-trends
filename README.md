@@ -6,7 +6,11 @@ Our project serves to assemble a pipeline that queries and stores the contents o
 
 ## Business Problem
 
-Spotify's "Wrapped" is an experience that allows listeners and creators to see theire trends on the app over the last year. A user's "Wrapped" is usually released around December 1st, but only contains data from January through mid-November. Therefore, there is often a "black-box" period around the holidays where listening trends are not recorded. Our group plans to build a data pipeline to capture this data and conduct a "sentiment" analysis of users around this period of time - specifically the last 2 weeks of November.
+Spotify's "Wrapped" is an experience that allows listeners and creators to see theire trends on the app over the last year. A user's "Wrapped" is usually released around December 1st, but only contains data from January through mid-November. Therefore, there is often a "black-box" period around the holidays where listening trends are not recorded. Our group plans to build a data pipeline to capture this data and conduct a "sentiment" analysis of users around this period of time (from 11/17/2021 - 12/02/2021). We asked questions such as:
+ * Are songs that are popular during the time period analyzed happier, more danceability, higher energy or higher tempo?
+ * Which artists tend to be most popular during the time period analyzed?
+ * How do holiday songs compare to mainstream songs?
+ * How does a popular holiday song "All I want for Christmas" perform during the time period analyzed.
 
 ## File Directory
 
@@ -18,6 +22,11 @@ README.md - You are here
 - extract_playlists.py - A Python script that processes the playlist events in Kafka and stores them in HDFS
 - parquet_to_csv.py - A helper Python script which processes the contents of the parquet files and stores them as a CSV
 - crontab.txt - The cron commands used to batch automate the process
+**analysis**
+- spotify_trends.ipynb - The python notebook used to unwrap the raw data files.
+- get_features.ipynb - The python notebook used to pull metrics such as valence, tempo, energy and danceability from the Spotify API.
+- global_top_50_analysis.ipynb - The python notebook used to perform data analysis and create visualization.
+
 
 ## Tools Used
 
@@ -53,3 +62,21 @@ A breakdown of how data flows throughout the system is as follows:
     - 8am PT: ping the Flask server to retrieve that day's Top 50 tracks and log them to Kafka
     - 8:15am PT: run 'extract_playlists' as a Spark job to read the tracks from Kafka and store them in Hadoop
     - 8:30am PT: read the contents of the parquet files and store them as CSVs for internal distribution.
+    
+## Analysis - Overview
+We wanted to understand how holiday songs impact the global top 50 for the time period between 11/17/2021 - 12/02/2021. We performed analysis to understand trends in 3 areas:
+1. How do songs in the top 50 for time period analyzed compare on metrics such as valence, danceability, tempo and energy? We looked at the median scores over the time period across all songs.
+2. We analyzed the frequency of artists appearing in the global top 50 during this time period to understand which artists were most popular.
+3. We also segreggated holiday songs from mainstream songs to compare metrics such as valence, danceability, tempo and energy and tempo for each group.
+4. Finally we looked at one popular Christmas song "All I want for Christmas" by Mariah Carey to see how this song trended in the global top 50 during the time period analyzed.
+
+## Analysis - Conclusion
+From our analysis we found the following*:
+1. Songs in the top 50 did not show any discernable trends in danceability, tempo and energy. We did see that the median valence post-Thanksgiving did trend upward a bit, but then seemed to go down. So we do not have enough data to fully understand if the downward trend will continue or was just a dip
+2. The most popular artists during the time period analyzed were all mainstream artists. Although popular songs did it make into the global top 50. The most popular artists were all mainstream artists. Adele appeared more than 2x more frequently than the next most popular artist.
+3. In terms of holiday v. mainstream songs, we noticed that holiday/Christmas songs did tend to have higher valence than mainstream songs. This made sense since holiday songs tend to be happier. Holiday songs did not show much similarity in terms of valence, tempo, danceability or energy to mainstream songs. This also made sense as holiday songs are very specific genre of music.
+4. Finally, in our analysis of "All I Want for Christmas" tended to rise rapidly in popularity starting 11/23 and then dropped a bit around 11/29, but is now rising again. Here also we need more data to fully understand the trend.
+
+*Limitations of this data set: we acknowledge that we only collected and analyzed data from 11/17 - 12/02. In a real world project, we would have collected data through Christmas and into the new year to understand trends prior to Thanksgiving, between Thanksgiving and Christmas, between Christmas and the new year and in early January to fully understand the holiday effect on the global top 50. Given this limited window of analysis, we can only share some rudimentary findings.
+
+
