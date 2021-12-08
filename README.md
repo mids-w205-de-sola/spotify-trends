@@ -27,7 +27,9 @@ README.md - You are here
 - spotify-trends-analysis.ipynb - The python notebook used to unwrap the raw data files.
 - get_features.ipynb - The python notebook used to pull metrics such as valence, tempo, energy and danceability from the Spotify API.
 - global_top_50_analysis.ipynb - The python notebook used to perform data analysis and create visualization.
-
+- everyday_top50.csv - CSV table produced from spotify-trends-analysis.ipynb to unraw the raw data files
+- features.csv - CSV table produced from get_features.ipynb to attach audio metrics for each song id
+- final_data.csv - CSV table with complete data from everyday_top50.csv and features.csv for songs in global top 50
 
 ## Tools Used
 
