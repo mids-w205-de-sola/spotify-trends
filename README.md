@@ -64,19 +64,19 @@ A breakdown of how data flows throughout the system is as follows:
     - 8:30am PT: read the contents of the parquet files and store them as CSVs for internal distribution.
     
 ## Analysis - Overview
-We wanted to understand how holiday songs impact (along with sentiment) the global top 50 for the time period between 11/17/2021 - 12/02/2021. We performed analysis to understand trends in the following areas:
-1. How do songs in the top 50 for time period analyzed compare on metrics such as valence, danceability, tempo and energy? We looked at the median scores over the time period across all songs.
+We wanted to understand how holiday songs impact the global top 50 for the time period between 11/17/2021 - 12/02/2021. We performed analysis to understand trends in the following areas:
+1. Sentiment analysis - how do songs in the top 50 for time period analyzed compare on metrics such as valence, danceability, tempo and energy. We looked at the median scores over the time period across all songs.
 2. We analyzed the frequency of artists appearing in the global top 50 during this time period to understand which artists were most popular.
-3. We also segreggated holiday songs from mainstream songs to compare metrics such as valence, danceability, tempo and energy and tempo for each group.
+3. We also segregated holiday songs from mainstream songs to compare metrics such as valence, danceability, tempo and energy and tempo for each group.
 4. Finally we looked at one popular Christmas song "All I want for Christmas" by Mariah Carey to see how this song trended in the global top 50 during the time period analyzed.
 
 ## Analysis - Conclusion
 From our analysis we found the following*:
-1. Songs in the top 50 did not show any discernable trends in danceability, tempo and energy. We did see that the median valence post-Thanksgiving did trend upward a bit, but then seemed to go down. So we do not have enough data to fully understand if the downward trend will continue or was just a dip
-2. The most popular artists during the time period analyzed were all mainstream artists. Although popular songs did it make into the global top 50. The most popular artists were all mainstream artists. Adele appeared more than 2x more frequently than the next most popular artist.
+1. Songs in the top 50 did tend to be happier. We did see that the median valence post-Thanksgiving did trended upward, but then seemed to go down. So we do not have enough data to fully understand if the downward trend will continue or was just a dip. We also noticed that danceability was higher on the weekends and that tempo and danceability tended to be correlated.
+2. The most popular artists during the time period analyzed were all mainstream artists. Although popular songs did it make into the global top 50. The most popular artists were all mainstream artists. Adele appeared more than 2x more frequently than the next most popular artist. So we feel that despite the popularity of holiday songs, the holidays are fine time to launch new albums - like Adele di.
 3. In terms of holiday v. mainstream songs, we noticed that holiday/Christmas songs did tend to have higher valence than mainstream songs. This made sense since holiday songs tend to be happier. Holiday songs did not show much similarity in terms of valence, tempo, danceability or energy to mainstream songs. This also made sense as holiday songs are very specific genre of music.
 4. Finally, in our analysis of "All I Want for Christmas" tended to rise rapidly in popularity starting 11/23 and then dropped a bit around 11/29, but is now rising again. Here also we need more data to fully understand the trend.
 
-*Limitations of this data set: we acknowledge that we only collected and analyzed data from 11/17 - 12/02. In a real world project, we would have collected data through Christmas and into the new year to understand trends prior to Thanksgiving, between Thanksgiving and Christmas, between Christmas and the new year and in early January to fully understand the holiday effect on the global top 50. Given this limited window of analysis, we can only share some rudimentary findings.
+*Limitations of this data set: we acknowledge that we only collected and analyzed data from 11/17 - 12/02. In a real world project, we would have collected data through Christmas and into the new year to understand trends prior to Thanksgiving, between Thanksgiving and Christmas, between Christmas and the new year and in early January to fully understand the holiday effect on the global top 50. Given this limited window of analysis, we can only share some premlinary findings.
 
 
