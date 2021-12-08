@@ -24,7 +24,7 @@ README.md - You are here
 - crontab.txt - The cron commands used to batch automate the process
 
 **analysis**
-- spotify_trends.ipynb - The python notebook used to unwrap the raw data files.
+- spotify-trends-analysis.ipynb - The python notebook used to unwrap the raw data files.
 - get_features.ipynb - The python notebook used to pull metrics such as valence, tempo, energy and danceability from the Spotify API.
 - global_top_50_analysis.ipynb - The python notebook used to perform data analysis and create visualization.
 
