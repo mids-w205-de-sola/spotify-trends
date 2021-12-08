@@ -10,7 +10,7 @@ Spotify's "Wrapped" is an experience that allows listeners and creators to see t
  * Are songs that are popular during the time period analyzed happier, more danceability, higher energy or higher tempo?
  * Which artists tend to be most popular during the time period analyzed?
  * How do holiday songs compare to mainstream songs?
- * How does a popular holiday song "All I want for Christmas" perform during the time period analyzed.
+ * How does a popular holiday song "All I Want For Christmas" perform during the time period analyzed?
 
 ## File Directory
 
@@ -22,6 +22,7 @@ README.md - You are here
 - extract_playlists.py - A Python script that processes the playlist events in Kafka and stores them in HDFS
 - parquet_to_csv.py - A helper Python script which processes the contents of the parquet files and stores them as a CSV
 - crontab.txt - The cron commands used to batch automate the process
+
 **analysis**
 - spotify_trends.ipynb - The python notebook used to unwrap the raw data files.
 - get_features.ipynb - The python notebook used to pull metrics such as valence, tempo, energy and danceability from the Spotify API.
