@@ -1,0 +1,601 @@
+,index,date,rank,song_name,song_id,album_name,artist,release_date
+0,0,2021-11-17 02:17:59.933,1,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),5enxwA8aAbwZbf5qCHORXi,Red (Taylor's Version),Taylor Swift,2021-11-12
+1,1,2021-11-17 02:17:59.933,2,Easy On Me,0gplL1WMoJ6iYaPgMCL0gX,Easy On Me,Adele,2021-10-14
+2,2,2021-11-17 02:17:59.933,3,STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,F*CK LOVE 3: OVER YOU,The Kid LAROI,2021-07-23
+3,3,2021-11-17 02:17:59.933,4,INDUSTRY BABY (feat. Jack Harlow),5Z9KJZvQzH6PFmb8SNkxuk,MONTERO,Lil Nas X,2021-09-17
+4,4,2021-11-17 02:17:59.933,5,Cold Heart - PNAU Remix,7rglLriMNBPAyuJOMGwi39,The Lockdown Sessions,Elton John,2021-10-22
+5,5,2021-11-17 02:17:59.933,6,Heat Waves,02MWAaffLxlfxAUY7c5dvx,Dreamland (+ Bonus Levels),Glass Animals,2020-08-06
+6,6,2021-11-17 02:17:59.933,7,Shivers,50nfwKoDiSYg8zOCREWAm5,=,Ed Sheeran,2021-10-29
+7,7,2021-11-17 02:17:59.933,8,Smokin Out The Window,7sMBvZCSUl99bJLXZaLa0b,An Evening With Silk Sonic,Bruno Mars,2021-11-11
+8,8,2021-11-17 02:17:59.933,9,Pepas,2B4GHvToeLTOBB4QLzW3Ni,La 167,Farruko,2021-10-01
+9,9,2021-11-17 02:17:59.933,10,Bad Habits,3rmo8F54jFF8OgYsqTxm5d,=,Ed Sheeran,2021-10-29
+10,10,2021-11-17 02:17:59.933,11,Enemy (with JID) - from the series Arcane League of Legends,1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) [from the series Arcane League of Legends],Imagine Dragons,2021-10-28
+11,11,2021-11-17 02:17:59.933,12,MONEY,7hU3IHwjX150XLoTVmjD0q,LALISA,LISA,2021-09-10
+12,12,2021-11-17 02:17:59.933,13,All Too Well (Taylor's Version),3nsfB1vus2qaloUdcBZvDu,Red (Taylor's Version),Taylor Swift,2021-11-12
+13,13,2021-11-17 02:17:59.933,14,My Universe,46HNZY1i7O6jwTA7Slo2PI,Music Of The Spheres,Coldplay,2021-10-15
+14,14,2021-11-17 02:17:59.933,15,One Right Now (with The Weeknd),00Blm7zeNqgYLPtW6zg8cj,One Right Now,Post Malone,2021-11-05
+15,15,2021-11-17 02:17:59.933,16,Red (Taylor's Version),4OAuvHryIVv4kMDNSLuPt6,Red (Taylor's Version),Taylor Swift,2021-11-12
+16,16,2021-11-17 02:17:59.933,17,Woman,6Uj1ctrBOjOas8xZXGqKk4,Planet Her,Doja Cat,2021-06-25
+17,17,2021-11-17 02:17:59.933,18,Already Dead,7qM1BWAsZMTYh4BcYLb0uQ,Already Dead,Juice WRLD,2021-11-12
+18,18,2021-11-17 02:17:59.933,19,love nwantiti (ah ah ah),2Xr1dTzJee307rmrkt8c0g,CKay The First,CKay,2019-08-30
+19,19,2021-11-17 02:17:59.933,20,love nwantiti (feat. Dj Yo! & AX'EL) - Remix,4gvrJnKCKIPiacNsWVQwEU,love nwantiti (feat. Dj Yo! & AX'EL) [Remix],CKay,2021-09-09
+20,20,2021-11-17 02:17:59.933,21,Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault),01K4zKU104LyJ8gMb7227B,Red (Taylor's Version),Taylor Swift,2021-11-12
+21,21,2021-11-17 02:17:59.933,22,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),15HMh4yxdf4wyxSZSlOgGZ,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae,2021-09-16
+22,22,2021-11-17 02:17:59.933,23,Toxic,2gQPv5jvVPqU2a9HhMNO1v,Toxic,BoyWithUke,2021-10-29
+23,23,2021-11-17 02:17:59.933,24,good 4 u,4ZtFanR9U6ndgddUvNcjcG,SOUR,Olivia Rodrigo,2021-05-21
+24,24,2021-11-17 02:17:59.933,25,Need to Know,3Vi5XqYrmQgOYBajMWSvCi,Planet Her,Doja Cat,2021-06-25
+25,25,2021-11-17 02:17:59.933,26,I Knew You Were Trouble (Taylor's Version),6AtZLIzUINvExIUy4QhdjP,Red (Taylor's Version),Taylor Swift,2021-11-12
+26,26,2021-11-17 02:17:59.933,27,THATS WHAT I WANT,0e8nrvls4Qqv5Rfa2UhqmO,MONTERO,Lil Nas X,2021-09-17
+27,27,2021-11-17 02:17:59.933,28,Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault),4IQkfUsrwXol38VV3U7t7T,Red (Taylor's Version),Taylor Swift,2021-11-12
+28,28,2021-11-17 02:17:59.933,29,Happier Than Ever,4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Billie Eilish,2021-07-30
+29,29,2021-11-17 02:17:59.933,30,Beggin',3Wrjm47oTz2sjIgck11l5e,Chosen,Måneskin,2017-12-08
+30,30,2021-11-17 02:17:59.933,31,Moth To A Flame (with The Weeknd),2gpWyfu7eZ01zzncHpxOtA,Moth To A Flame,Swedish House Mafia,2021-10-22
+31,31,2021-11-17 02:17:59.933,32,LA FAMA (with The Weeknd),6dmXZ9B5HdFAyzHeTneYBK,LA FAMA (with The Weeknd),ROSALÍA,2021-11-11
+32,32,2021-11-17 02:17:59.933,33,Leave The Door Open,1LPSkqVhWVRUkKE03YUkpB,An Evening With Silk Sonic,Bruno Mars,2021-11-11
+33,33,2021-11-17 02:17:59.933,34,Kiss Me More (feat. SZA),3DarAbFujv6eYNliUTyqtz,Planet Her,Doja Cat,2021-06-25
+34,34,2021-11-17 02:17:59.933,35,State Of Grace (Taylor's Version),6lzc0Al0zfZOIFsFvBS1ki,Red (Taylor's Version),Taylor Swift,2021-11-12
+35,35,2021-11-17 02:17:59.933,36,22 (Taylor's Version),3yII7UwgLF6K5zW3xad3MP,Red (Taylor's Version),Taylor Swift,2021-11-12
+36,36,2021-11-17 02:17:59.933,37,I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),4CkgMiMqZ5JzW9iYXSTMTL,Red (Taylor's Version),Taylor Swift,2021-11-12
+37,37,2021-11-17 02:17:59.933,38,MONTERO (Call Me By Your Name),1SC5rEoYDGUK4NfG82494W,MONTERO,Lil Nas X,2021-09-17
+38,38,2021-11-17 02:17:59.933,39,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),4gzsuuZypVbxs0Af1LSZyB,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Tainy,2021-10-05
+39,39,2021-11-17 02:17:59.933,40,Do It To It,20on25jryn53hWghthWWW3,Do It To It,ACRAZE,2021-08-20
+40,40,2021-11-17 02:17:59.933,41,We Are Never Ever Getting Back Together (Taylor's Version),5YqltLsjdqFtvqE7Nrysvs,Red (Taylor's Version),Taylor Swift,2021-11-12
+41,41,2021-11-17 02:17:59.933,42,Life Goes On,0eu4C55hL6x29mmeAjytzC,"Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",Oliver Tree,2021-05-28
+42,42,2021-11-17 02:17:59.933,43,Treacherous (Taylor's Version),3S7HNKPakdwNEBFIVTL6dZ,Red (Taylor's Version),Taylor Swift,2021-11-12
+43,43,2021-11-17 02:17:59.933,44,Ghost,6I3mqTwhRpn34SLVafSH7G,Justice,Justin Bieber,2021-03-19
+44,44,2021-11-17 02:17:59.933,45,Yonaguni,2JPLbjOn0wPCngEot2STUS,Yonaguni,Bad Bunny,2021-06-04
+45,45,2021-11-17 02:17:59.933,46,Message In A Bottle (Taylor's Version) (From The Vault),3z6XUommYDWPHeFhmhhT6j,Red (Taylor's Version),Taylor Swift,2021-11-12
+46,46,2021-11-17 02:17:59.933,47,Where Are You Now,3uUuGVFu1V7jTQL60S1r8z,Where Are You Now,Lost Frequencies,2021-07-30
+47,47,2021-11-17 02:17:59.933,48,Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,After Hours,The Weeknd,2020-03-20
+48,48,2021-11-17 02:17:59.933,49,Meet Me At Our Spot,07MDkzWARZaLEdKxo6yArG,THE ANXIETY,THE ANXIETY,2020-03-13
+49,49,2021-11-17 02:17:59.933,50,Better Man (Taylor's Version) (From The Vault),4OmFmE0fzcMG6g0Y8p4eSD,Red (Taylor's Version),Taylor Swift,2021-11-12
+50,0,2021-11-17 02:18:07.5,1,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),5enxwA8aAbwZbf5qCHORXi,Red (Taylor's Version),Taylor Swift,2021-11-12
+51,1,2021-11-17 02:18:07.5,2,Easy On Me,0gplL1WMoJ6iYaPgMCL0gX,Easy On Me,Adele,2021-10-14
+52,2,2021-11-17 02:18:07.5,3,STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,F*CK LOVE 3: OVER YOU,The Kid LAROI,2021-07-23
+53,3,2021-11-17 02:18:07.5,4,INDUSTRY BABY (feat. Jack Harlow),5Z9KJZvQzH6PFmb8SNkxuk,MONTERO,Lil Nas X,2021-09-17
+54,4,2021-11-17 02:18:07.5,5,Cold Heart - PNAU Remix,7rglLriMNBPAyuJOMGwi39,The Lockdown Sessions,Elton John,2021-10-22
+55,5,2021-11-17 02:18:07.5,6,Heat Waves,02MWAaffLxlfxAUY7c5dvx,Dreamland (+ Bonus Levels),Glass Animals,2020-08-06
+56,6,2021-11-17 02:18:07.5,7,Shivers,50nfwKoDiSYg8zOCREWAm5,=,Ed Sheeran,2021-10-29
+57,7,2021-11-17 02:18:07.5,8,Smokin Out The Window,7sMBvZCSUl99bJLXZaLa0b,An Evening With Silk Sonic,Bruno Mars,2021-11-11
+58,8,2021-11-17 02:18:07.5,9,Pepas,2B4GHvToeLTOBB4QLzW3Ni,La 167,Farruko,2021-10-01
+59,9,2021-11-17 02:18:07.5,10,Bad Habits,3rmo8F54jFF8OgYsqTxm5d,=,Ed Sheeran,2021-10-29
+60,10,2021-11-17 02:18:07.5,11,Enemy (with JID) - from the series Arcane League of Legends,1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) [from the series Arcane League of Legends],Imagine Dragons,2021-10-28
+61,11,2021-11-17 02:18:07.5,12,MONEY,7hU3IHwjX150XLoTVmjD0q,LALISA,LISA,2021-09-10
+62,12,2021-11-17 02:18:07.5,13,All Too Well (Taylor's Version),3nsfB1vus2qaloUdcBZvDu,Red (Taylor's Version),Taylor Swift,2021-11-12
+63,13,2021-11-17 02:18:07.5,14,My Universe,46HNZY1i7O6jwTA7Slo2PI,Music Of The Spheres,Coldplay,2021-10-15
+64,14,2021-11-17 02:18:07.5,15,One Right Now (with The Weeknd),00Blm7zeNqgYLPtW6zg8cj,One Right Now,Post Malone,2021-11-05
+65,15,2021-11-17 02:18:07.5,16,Red (Taylor's Version),4OAuvHryIVv4kMDNSLuPt6,Red (Taylor's Version),Taylor Swift,2021-11-12
+66,16,2021-11-17 02:18:07.5,17,Woman,6Uj1ctrBOjOas8xZXGqKk4,Planet Her,Doja Cat,2021-06-25
+67,17,2021-11-17 02:18:07.5,18,Already Dead,7qM1BWAsZMTYh4BcYLb0uQ,Already Dead,Juice WRLD,2021-11-12
+68,18,2021-11-17 02:18:07.5,19,love nwantiti (ah ah ah),2Xr1dTzJee307rmrkt8c0g,CKay The First,CKay,2019-08-30
+69,19,2021-11-17 02:18:07.5,20,love nwantiti (feat. Dj Yo! & AX'EL) - Remix,4gvrJnKCKIPiacNsWVQwEU,love nwantiti (feat. Dj Yo! & AX'EL) [Remix],CKay,2021-09-09
+70,20,2021-11-17 02:18:07.5,21,Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault),01K4zKU104LyJ8gMb7227B,Red (Taylor's Version),Taylor Swift,2021-11-12
+71,21,2021-11-17 02:18:07.5,22,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),15HMh4yxdf4wyxSZSlOgGZ,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae,2021-09-16
+72,22,2021-11-17 02:18:07.5,23,Toxic,2gQPv5jvVPqU2a9HhMNO1v,Toxic,BoyWithUke,2021-10-29
+73,23,2021-11-17 02:18:07.5,24,good 4 u,4ZtFanR9U6ndgddUvNcjcG,SOUR,Olivia Rodrigo,2021-05-21
+74,24,2021-11-17 02:18:07.5,25,Need to Know,3Vi5XqYrmQgOYBajMWSvCi,Planet Her,Doja Cat,2021-06-25
+75,25,2021-11-17 02:18:07.5,26,I Knew You Were Trouble (Taylor's Version),6AtZLIzUINvExIUy4QhdjP,Red (Taylor's Version),Taylor Swift,2021-11-12
+76,26,2021-11-17 02:18:07.5,27,THATS WHAT I WANT,0e8nrvls4Qqv5Rfa2UhqmO,MONTERO,Lil Nas X,2021-09-17
+77,27,2021-11-17 02:18:07.5,28,Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault),4IQkfUsrwXol38VV3U7t7T,Red (Taylor's Version),Taylor Swift,2021-11-12
+78,28,2021-11-17 02:18:07.5,29,Happier Than Ever,4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Billie Eilish,2021-07-30
+79,29,2021-11-17 02:18:07.5,30,Beggin',3Wrjm47oTz2sjIgck11l5e,Chosen,Måneskin,2017-12-08
+80,30,2021-11-17 02:18:07.5,31,Moth To A Flame (with The Weeknd),2gpWyfu7eZ01zzncHpxOtA,Moth To A Flame,Swedish House Mafia,2021-10-22
+81,31,2021-11-17 02:18:07.5,32,LA FAMA (with The Weeknd),6dmXZ9B5HdFAyzHeTneYBK,LA FAMA (with The Weeknd),ROSALÍA,2021-11-11
+82,32,2021-11-17 02:18:07.5,33,Leave The Door Open,1LPSkqVhWVRUkKE03YUkpB,An Evening With Silk Sonic,Bruno Mars,2021-11-11
+83,33,2021-11-17 02:18:07.5,34,Kiss Me More (feat. SZA),3DarAbFujv6eYNliUTyqtz,Planet Her,Doja Cat,2021-06-25
+84,34,2021-11-17 02:18:07.5,35,State Of Grace (Taylor's Version),6lzc0Al0zfZOIFsFvBS1ki,Red (Taylor's Version),Taylor Swift,2021-11-12
+85,35,2021-11-17 02:18:07.5,36,22 (Taylor's Version),3yII7UwgLF6K5zW3xad3MP,Red (Taylor's Version),Taylor Swift,2021-11-12
+86,36,2021-11-17 02:18:07.5,37,I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),4CkgMiMqZ5JzW9iYXSTMTL,Red (Taylor's Version),Taylor Swift,2021-11-12
+87,37,2021-11-17 02:18:07.5,38,MONTERO (Call Me By Your Name),1SC5rEoYDGUK4NfG82494W,MONTERO,Lil Nas X,2021-09-17
+88,38,2021-11-17 02:18:07.5,39,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),4gzsuuZypVbxs0Af1LSZyB,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Tainy,2021-10-05
+89,39,2021-11-17 02:18:07.5,40,Do It To It,20on25jryn53hWghthWWW3,Do It To It,ACRAZE,2021-08-20
+90,40,2021-11-17 02:18:07.5,41,We Are Never Ever Getting Back Together (Taylor's Version),5YqltLsjdqFtvqE7Nrysvs,Red (Taylor's Version),Taylor Swift,2021-11-12
+91,41,2021-11-17 02:18:07.5,42,Life Goes On,0eu4C55hL6x29mmeAjytzC,"Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",Oliver Tree,2021-05-28
+92,42,2021-11-17 02:18:07.5,43,Treacherous (Taylor's Version),3S7HNKPakdwNEBFIVTL6dZ,Red (Taylor's Version),Taylor Swift,2021-11-12
+93,43,2021-11-17 02:18:07.5,44,Ghost,6I3mqTwhRpn34SLVafSH7G,Justice,Justin Bieber,2021-03-19
+94,44,2021-11-17 02:18:07.5,45,Yonaguni,2JPLbjOn0wPCngEot2STUS,Yonaguni,Bad Bunny,2021-06-04
+95,45,2021-11-17 02:18:07.5,46,Message In A Bottle (Taylor's Version) (From The Vault),3z6XUommYDWPHeFhmhhT6j,Red (Taylor's Version),Taylor Swift,2021-11-12
+96,46,2021-11-17 02:18:07.5,47,Where Are You Now,3uUuGVFu1V7jTQL60S1r8z,Where Are You Now,Lost Frequencies,2021-07-30
+97,47,2021-11-17 02:18:07.5,48,Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,After Hours,The Weeknd,2020-03-20
+98,48,2021-11-17 02:18:07.5,49,Meet Me At Our Spot,07MDkzWARZaLEdKxo6yArG,THE ANXIETY,THE ANXIETY,2020-03-13
+99,49,2021-11-17 02:18:07.5,50,Better Man (Taylor's Version) (From The Vault),4OmFmE0fzcMG6g0Y8p4eSD,Red (Taylor's Version),Taylor Swift,2021-11-12
+100,0,2021-11-17 17:30:02.13,1,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),5enxwA8aAbwZbf5qCHORXi,Red (Taylor's Version),Taylor Swift,2021-11-12
+101,1,2021-11-17 17:30:02.13,2,Easy On Me,0gplL1WMoJ6iYaPgMCL0gX,Easy On Me,Adele,2021-10-14
+102,2,2021-11-17 17:30:02.13,3,STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,F*CK LOVE 3: OVER YOU,The Kid LAROI,2021-07-23
+103,3,2021-11-17 17:30:02.13,4,INDUSTRY BABY (feat. Jack Harlow),5Z9KJZvQzH6PFmb8SNkxuk,MONTERO,Lil Nas X,2021-09-17
+104,4,2021-11-17 17:30:02.13,5,Cold Heart - PNAU Remix,7rglLriMNBPAyuJOMGwi39,The Lockdown Sessions,Elton John,2021-10-22
+105,5,2021-11-17 17:30:02.13,6,Heat Waves,02MWAaffLxlfxAUY7c5dvx,Dreamland (+ Bonus Levels),Glass Animals,2020-08-06
+106,6,2021-11-17 17:30:02.13,7,Shivers,50nfwKoDiSYg8zOCREWAm5,=,Ed Sheeran,2021-10-29
+107,7,2021-11-17 17:30:02.13,8,Smokin Out The Window,7sMBvZCSUl99bJLXZaLa0b,An Evening With Silk Sonic,Bruno Mars,2021-11-11
+108,8,2021-11-17 17:30:02.13,9,Bad Habits,3rmo8F54jFF8OgYsqTxm5d,=,Ed Sheeran,2021-10-29
+109,9,2021-11-17 17:30:02.13,10,Pepas,2B4GHvToeLTOBB4QLzW3Ni,La 167,Farruko,2021-10-01
+110,10,2021-11-17 17:30:02.13,11,Enemy (with JID) - from the series Arcane League of Legends,1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) [from the series Arcane League of Legends],Imagine Dragons,2021-10-28
+111,11,2021-11-17 17:30:02.13,12,One Right Now (with The Weeknd),00Blm7zeNqgYLPtW6zg8cj,One Right Now,Post Malone,2021-11-05
+112,12,2021-11-17 17:30:02.13,13,MONEY,7hU3IHwjX150XLoTVmjD0q,LALISA,LISA,2021-09-10
+113,13,2021-11-17 17:30:02.13,14,My Universe,46HNZY1i7O6jwTA7Slo2PI,Music Of The Spheres,Coldplay,2021-10-15
+114,14,2021-11-17 17:30:02.13,15,Woman,6Uj1ctrBOjOas8xZXGqKk4,Planet Her,Doja Cat,2021-06-25
+115,15,2021-11-17 17:30:02.13,16,All Too Well (Taylor's Version),3nsfB1vus2qaloUdcBZvDu,Red (Taylor's Version),Taylor Swift,2021-11-12
+116,16,2021-11-17 17:30:02.13,17,love nwantiti (ah ah ah),2Xr1dTzJee307rmrkt8c0g,CKay The First,CKay,2019-08-30
+117,17,2021-11-17 17:30:02.13,18,Red (Taylor's Version),4OAuvHryIVv4kMDNSLuPt6,Red (Taylor's Version),Taylor Swift,2021-11-12
+118,18,2021-11-17 17:30:02.13,19,love nwantiti (feat. Dj Yo! & AX'EL) - Remix,4gvrJnKCKIPiacNsWVQwEU,love nwantiti (feat. Dj Yo! & AX'EL) [Remix],CKay,2021-09-09
+119,19,2021-11-17 17:30:02.13,20,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),15HMh4yxdf4wyxSZSlOgGZ,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae,2021-09-16
+120,20,2021-11-17 17:30:02.13,21,Toxic,2gQPv5jvVPqU2a9HhMNO1v,Toxic,BoyWithUke,2021-10-29
+121,21,2021-11-17 17:30:02.13,22,Already Dead,7qM1BWAsZMTYh4BcYLb0uQ,Already Dead,Juice WRLD,2021-11-12
+122,22,2021-11-17 17:30:02.13,23,good 4 u,4ZtFanR9U6ndgddUvNcjcG,SOUR,Olivia Rodrigo,2021-05-21
+123,23,2021-11-17 17:30:02.13,24,Need to Know,3Vi5XqYrmQgOYBajMWSvCi,Planet Her,Doja Cat,2021-06-25
+124,24,2021-11-17 17:30:02.13,25,THATS WHAT I WANT,0e8nrvls4Qqv5Rfa2UhqmO,MONTERO,Lil Nas X,2021-09-17
+125,25,2021-11-17 17:30:02.13,26,Moth To A Flame (with The Weeknd),2gpWyfu7eZ01zzncHpxOtA,Moth To A Flame,Swedish House Mafia,2021-10-22
+126,26,2021-11-17 17:30:02.13,27,Happier Than Ever,4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Billie Eilish,2021-07-30
+127,27,2021-11-17 17:30:02.13,28,Beggin',3Wrjm47oTz2sjIgck11l5e,Chosen,Måneskin,2017-12-08
+128,28,2021-11-17 17:30:02.13,29,Kiss Me More (feat. SZA),3DarAbFujv6eYNliUTyqtz,Planet Her,Doja Cat,2021-06-25
+129,29,2021-11-17 17:30:02.13,30,Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault),01K4zKU104LyJ8gMb7227B,Red (Taylor's Version),Taylor Swift,2021-11-12
+130,30,2021-11-17 17:30:02.13,31,Do It To It,20on25jryn53hWghthWWW3,Do It To It,ACRAZE,2021-08-20
+131,31,2021-11-17 17:30:02.13,32,LA FAMA (with The Weeknd),6dmXZ9B5HdFAyzHeTneYBK,LA FAMA (with The Weeknd),ROSALÍA,2021-11-11
+132,32,2021-11-17 17:30:02.13,33,I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),4CkgMiMqZ5JzW9iYXSTMTL,Red (Taylor's Version),Taylor Swift,2021-11-12
+133,33,2021-11-17 17:30:02.13,34,MONTERO (Call Me By Your Name),1SC5rEoYDGUK4NfG82494W,MONTERO,Lil Nas X,2021-09-17
+134,34,2021-11-17 17:30:02.13,35,Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault),4IQkfUsrwXol38VV3U7t7T,Red (Taylor's Version),Taylor Swift,2021-11-12
+135,35,2021-11-17 17:30:02.13,36,Ghost,6I3mqTwhRpn34SLVafSH7G,Justice,Justin Bieber,2021-03-19
+136,36,2021-11-17 17:30:02.13,37,Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,After Hours,The Weeknd,2020-03-20
+137,37,2021-11-17 17:30:02.13,38,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),4gzsuuZypVbxs0Af1LSZyB,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Tainy,2021-10-05
+138,38,2021-11-17 17:30:02.13,39,Leave The Door Open,1LPSkqVhWVRUkKE03YUkpB,An Evening With Silk Sonic,Bruno Mars,2021-11-11
+139,39,2021-11-17 17:30:02.13,40,I Knew You Were Trouble (Taylor's Version),6AtZLIzUINvExIUy4QhdjP,Red (Taylor's Version),Taylor Swift,2021-11-12
+140,40,2021-11-17 17:30:02.13,41,Life Goes On,0eu4C55hL6x29mmeAjytzC,"Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",Oliver Tree,2021-05-28
+141,41,2021-11-17 17:30:02.13,42,Where Are You Now,3uUuGVFu1V7jTQL60S1r8z,Where Are You Now,Lost Frequencies,2021-07-30
+142,42,2021-11-17 17:30:02.13,43,Yonaguni,2JPLbjOn0wPCngEot2STUS,Yonaguni,Bad Bunny,2021-06-04
+143,43,2021-11-17 17:30:02.13,44,Meet Me At Our Spot,07MDkzWARZaLEdKxo6yArG,THE ANXIETY,THE ANXIETY,2020-03-13
+144,44,2021-11-17 17:30:02.13,45,Better Days (NEIKED x Mae Muller x Polo G),6f5ExP43esnvdKPddwKXJH,Better Days (NEIKED x Mae Muller x Polo G),NEIKED,2021-09-24
+145,45,2021-11-17 17:30:02.13,46,traitor,5CZ40GBx1sQ9agT82CLQCT,SOUR,Olivia Rodrigo,2021-05-21
+146,46,2021-11-17 17:30:02.13,47,State Of Grace (Taylor's Version),6lzc0Al0zfZOIFsFvBS1ki,Red (Taylor's Version),Taylor Swift,2021-11-12
+147,47,2021-11-17 17:30:02.13,48,22 (Taylor's Version),3yII7UwgLF6K5zW3xad3MP,Red (Taylor's Version),Taylor Swift,2021-11-12
+148,48,2021-11-17 17:30:02.13,49,Enchanted,04S1pkp1VaIqjg8zZqknR5,Speak Now,Taylor Swift,2010-01-01
+149,49,2021-11-17 17:30:02.13,50,I Love You So,4SqWKzw0CbA05TGszDgMlc,I Love You So,The Walters,2014-11-28
+150,0,2021-11-18 16:00:04.739,1,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),5enxwA8aAbwZbf5qCHORXi,Red (Taylor's Version),Taylor Swift,2021-11-12
+151,1,2021-11-18 16:00:04.739,2,Easy On Me,0gplL1WMoJ6iYaPgMCL0gX,Easy On Me,Adele,2021-10-14
+152,2,2021-11-18 16:00:04.739,3,STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,F*CK LOVE 3: OVER YOU,The Kid LAROI,2021-07-23
+153,3,2021-11-18 16:00:04.739,4,INDUSTRY BABY (feat. Jack Harlow),5Z9KJZvQzH6PFmb8SNkxuk,MONTERO,Lil Nas X,2021-09-17
+154,4,2021-11-18 16:00:04.739,5,Cold Heart - PNAU Remix,7rglLriMNBPAyuJOMGwi39,The Lockdown Sessions,Elton John,2021-10-22
+155,5,2021-11-18 16:00:04.739,6,Heat Waves,02MWAaffLxlfxAUY7c5dvx,Dreamland (+ Bonus Levels),Glass Animals,2020-08-06
+156,6,2021-11-18 16:00:04.739,7,Shivers,50nfwKoDiSYg8zOCREWAm5,=,Ed Sheeran,2021-10-29
+157,7,2021-11-18 16:00:04.739,8,Smokin Out The Window,7sMBvZCSUl99bJLXZaLa0b,An Evening With Silk Sonic,Bruno Mars,2021-11-11
+158,8,2021-11-18 16:00:04.739,9,Bad Habits,3rmo8F54jFF8OgYsqTxm5d,=,Ed Sheeran,2021-10-29
+159,9,2021-11-18 16:00:04.739,10,Pepas,2B4GHvToeLTOBB4QLzW3Ni,La 167,Farruko,2021-10-01
+160,10,2021-11-18 16:00:04.739,11,Enemy (with JID) - from the series Arcane League of Legends,1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) [from the series Arcane League of Legends],Imagine Dragons,2021-10-28
+161,11,2021-11-18 16:00:04.739,12,One Right Now (with The Weeknd),00Blm7zeNqgYLPtW6zg8cj,One Right Now,Post Malone,2021-11-05
+162,12,2021-11-18 16:00:04.739,13,MONEY,7hU3IHwjX150XLoTVmjD0q,LALISA,LISA,2021-09-10
+163,13,2021-11-18 16:00:04.739,14,My Universe,46HNZY1i7O6jwTA7Slo2PI,Music Of The Spheres,Coldplay,2021-10-15
+164,14,2021-11-18 16:00:04.739,15,Woman,6Uj1ctrBOjOas8xZXGqKk4,Planet Her,Doja Cat,2021-06-25
+165,15,2021-11-18 16:00:04.739,16,love nwantiti (ah ah ah),2Xr1dTzJee307rmrkt8c0g,CKay The First,CKay,2019-08-30
+166,16,2021-11-18 16:00:04.739,17,love nwantiti (feat. Dj Yo! & AX'EL) - Remix,4gvrJnKCKIPiacNsWVQwEU,love nwantiti (feat. Dj Yo! & AX'EL) [Remix],CKay,2021-09-09
+167,17,2021-11-18 16:00:04.739,18,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),15HMh4yxdf4wyxSZSlOgGZ,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae,2021-09-16
+168,18,2021-11-18 16:00:04.739,19,good 4 u,4ZtFanR9U6ndgddUvNcjcG,SOUR,Olivia Rodrigo,2021-05-21
+169,19,2021-11-18 16:00:04.739,20,Toxic,2gQPv5jvVPqU2a9HhMNO1v,Toxic,BoyWithUke,2021-10-29
+170,20,2021-11-18 16:00:04.739,21,Need to Know,3Vi5XqYrmQgOYBajMWSvCi,Planet Her,Doja Cat,2021-06-25
+171,21,2021-11-18 16:00:04.739,22,All Too Well (Taylor's Version),3nsfB1vus2qaloUdcBZvDu,Red (Taylor's Version),Taylor Swift,2021-11-12
+172,22,2021-11-18 16:00:04.739,23,THATS WHAT I WANT,0e8nrvls4Qqv5Rfa2UhqmO,MONTERO,Lil Nas X,2021-09-17
+173,23,2021-11-18 16:00:04.739,24,Moth To A Flame (with The Weeknd),2gpWyfu7eZ01zzncHpxOtA,Moth To A Flame,Swedish House Mafia,2021-10-22
+174,24,2021-11-18 16:00:04.739,25,Beggin',3Wrjm47oTz2sjIgck11l5e,Chosen,Måneskin,2017-12-08
+175,25,2021-11-18 16:00:04.739,26,Happier Than Ever,4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Billie Eilish,2021-07-30
+176,26,2021-11-18 16:00:04.739,27,Red (Taylor's Version),4OAuvHryIVv4kMDNSLuPt6,Red (Taylor's Version),Taylor Swift,2021-11-12
+177,27,2021-11-18 16:00:04.739,28,Kiss Me More (feat. SZA),3DarAbFujv6eYNliUTyqtz,Planet Her,Doja Cat,2021-06-25
+178,28,2021-11-18 16:00:04.739,29,Do It To It,20on25jryn53hWghthWWW3,Do It To It,ACRAZE,2021-08-20
+179,29,2021-11-18 16:00:04.739,30,Already Dead,7qM1BWAsZMTYh4BcYLb0uQ,Already Dead,Juice WRLD,2021-11-12
+180,30,2021-11-18 16:00:04.739,31,MONTERO (Call Me By Your Name),1SC5rEoYDGUK4NfG82494W,MONTERO,Lil Nas X,2021-09-17
+181,31,2021-11-18 16:00:04.739,32,LA FAMA (with The Weeknd),6dmXZ9B5HdFAyzHeTneYBK,LA FAMA (with The Weeknd),ROSALÍA,2021-11-11
+182,32,2021-11-18 16:00:04.739,33,Ghost,6I3mqTwhRpn34SLVafSH7G,Justice,Justin Bieber,2021-03-19
+183,33,2021-11-18 16:00:04.739,34,Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,After Hours,The Weeknd,2020-03-20
+184,34,2021-11-18 16:00:04.739,35,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),4gzsuuZypVbxs0Af1LSZyB,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Tainy,2021-10-05
+185,35,2021-11-18 16:00:04.739,36,Where Are You Now,3uUuGVFu1V7jTQL60S1r8z,Where Are You Now,Lost Frequencies,2021-07-30
+186,36,2021-11-18 16:00:04.739,37,Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault),01K4zKU104LyJ8gMb7227B,Red (Taylor's Version),Taylor Swift,2021-11-12
+187,37,2021-11-18 16:00:04.739,38,Life Goes On,0eu4C55hL6x29mmeAjytzC,"Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",Oliver Tree,2021-05-28
+188,38,2021-11-18 16:00:04.739,39,I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),4CkgMiMqZ5JzW9iYXSTMTL,Red (Taylor's Version),Taylor Swift,2021-11-12
+189,39,2021-11-18 16:00:04.739,40,Leave The Door Open,1LPSkqVhWVRUkKE03YUkpB,An Evening With Silk Sonic,Bruno Mars,2021-11-11
+190,40,2021-11-18 16:00:04.739,41,Yonaguni,2JPLbjOn0wPCngEot2STUS,Yonaguni,Bad Bunny,2021-06-04
+191,41,2021-11-18 16:00:04.739,42,Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault),4IQkfUsrwXol38VV3U7t7T,Red (Taylor's Version),Taylor Swift,2021-11-12
+192,42,2021-11-18 16:00:04.739,43,Meet Me At Our Spot,07MDkzWARZaLEdKxo6yArG,THE ANXIETY,THE ANXIETY,2020-03-13
+193,43,2021-11-18 16:00:04.739,44,Better Days (NEIKED x Mae Muller x Polo G),6f5ExP43esnvdKPddwKXJH,Better Days (NEIKED x Mae Muller x Polo G),NEIKED,2021-09-24
+194,44,2021-11-18 16:00:04.739,45,traitor,5CZ40GBx1sQ9agT82CLQCT,SOUR,Olivia Rodrigo,2021-05-21
+195,45,2021-11-18 16:00:04.739,46,I Love You So,4SqWKzw0CbA05TGszDgMlc,I Love You So,The Walters,2014-11-28
+196,46,2021-11-18 16:00:04.739,47,abcdefu,4fouWK6XVHhzl78KzQ1UjL,abcdefu,GAYLE,2021-08-13
+197,47,2021-11-18 16:00:04.739,48,Enchanted,04S1pkp1VaIqjg8zZqknR5,Speak Now,Taylor Swift,2010-01-01
+198,48,2021-11-18 16:00:04.739,49,I Knew You Were Trouble (Taylor's Version),6AtZLIzUINvExIUy4QhdjP,Red (Taylor's Version),Taylor Swift,2021-11-12
+199,49,2021-11-18 16:00:04.739,50,Sweater Weather,2QjOHCTQ1Jl3zawyYOpxh6,I Love You.,The Neighbourhood,2013-04-19
+200,0,2021-11-19 16:00:02.631,1,Easy On Me,0gplL1WMoJ6iYaPgMCL0gX,Easy On Me,Adele,2021-10-14
+201,1,2021-11-19 16:00:02.631,2,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),5enxwA8aAbwZbf5qCHORXi,Red (Taylor's Version),Taylor Swift,2021-11-12
+202,2,2021-11-19 16:00:02.631,3,STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,F*CK LOVE 3: OVER YOU,The Kid LAROI,2021-07-23
+203,3,2021-11-19 16:00:02.631,4,INDUSTRY BABY (feat. Jack Harlow),5Z9KJZvQzH6PFmb8SNkxuk,MONTERO,Lil Nas X,2021-09-17
+204,4,2021-11-19 16:00:02.631,5,Cold Heart - PNAU Remix,7rglLriMNBPAyuJOMGwi39,The Lockdown Sessions,Elton John,2021-10-22
+205,5,2021-11-19 16:00:02.631,6,Heat Waves,02MWAaffLxlfxAUY7c5dvx,Dreamland (+ Bonus Levels),Glass Animals,2020-08-06
+206,6,2021-11-19 16:00:02.631,7,Shivers,50nfwKoDiSYg8zOCREWAm5,=,Ed Sheeran,2021-10-29
+207,7,2021-11-19 16:00:02.631,8,Bad Habits,3rmo8F54jFF8OgYsqTxm5d,=,Ed Sheeran,2021-10-29
+208,8,2021-11-19 16:00:02.631,9,Pepas,2B4GHvToeLTOBB4QLzW3Ni,La 167,Farruko,2021-10-01
+209,9,2021-11-19 16:00:02.631,10,Smokin Out The Window,7sMBvZCSUl99bJLXZaLa0b,An Evening With Silk Sonic,Bruno Mars,2021-11-11
+210,10,2021-11-19 16:00:02.631,11,Enemy (with JID) - from the series Arcane League of Legends,1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) [from the series Arcane League of Legends],Imagine Dragons,2021-10-28
+211,11,2021-11-19 16:00:02.631,12,MONEY,7hU3IHwjX150XLoTVmjD0q,LALISA,LISA,2021-09-10
+212,12,2021-11-19 16:00:02.631,13,My Universe,46HNZY1i7O6jwTA7Slo2PI,Music Of The Spheres,Coldplay,2021-10-15
+213,13,2021-11-19 16:00:02.631,14,One Right Now (with The Weeknd),00Blm7zeNqgYLPtW6zg8cj,One Right Now,Post Malone,2021-11-05
+214,14,2021-11-19 16:00:02.631,15,Woman,6Uj1ctrBOjOas8xZXGqKk4,Planet Her,Doja Cat,2021-06-25
+215,15,2021-11-19 16:00:02.631,16,love nwantiti (ah ah ah),2Xr1dTzJee307rmrkt8c0g,CKay The First,CKay,2019-08-30
+216,16,2021-11-19 16:00:02.631,17,love nwantiti (feat. Dj Yo! & AX'EL) - Remix,4gvrJnKCKIPiacNsWVQwEU,love nwantiti (feat. Dj Yo! & AX'EL) [Remix],CKay,2021-09-09
+217,17,2021-11-19 16:00:02.631,18,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),09gysnJpfQ3ublBmJDfcEC,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae,2021-09-16
+218,18,2021-11-19 16:00:02.631,19,Toxic,2gQPv5jvVPqU2a9HhMNO1v,Toxic,BoyWithUke,2021-10-29
+219,19,2021-11-19 16:00:02.631,20,good 4 u,4ZtFanR9U6ndgddUvNcjcG,SOUR,Olivia Rodrigo,2021-05-21
+220,20,2021-11-19 16:00:02.631,21,Need to Know,3Vi5XqYrmQgOYBajMWSvCi,Planet Her,Doja Cat,2021-06-25
+221,21,2021-11-19 16:00:02.631,22,THATS WHAT I WANT,0e8nrvls4Qqv5Rfa2UhqmO,MONTERO,Lil Nas X,2021-09-17
+222,22,2021-11-19 16:00:02.631,23,Do It To It,20on25jryn53hWghthWWW3,Do It To It,ACRAZE,2021-08-20
+223,23,2021-11-19 16:00:02.631,24,Beggin',3Wrjm47oTz2sjIgck11l5e,Chosen,Måneskin,2017-12-08
+224,24,2021-11-19 16:00:02.631,25,Moth To A Flame (with The Weeknd),2gpWyfu7eZ01zzncHpxOtA,Moth To A Flame,Swedish House Mafia,2021-10-22
+225,25,2021-11-19 16:00:02.631,26,Happier Than Ever,4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Billie Eilish,2021-07-30
+226,26,2021-11-19 16:00:02.631,27,Kiss Me More (feat. SZA),3DarAbFujv6eYNliUTyqtz,Planet Her,Doja Cat,2021-06-25
+227,27,2021-11-19 16:00:02.631,28,MONTERO (Call Me By Your Name),1SC5rEoYDGUK4NfG82494W,MONTERO,Lil Nas X,2021-09-17
+228,28,2021-11-19 16:00:02.631,29,All Too Well (Taylor's Version),3nsfB1vus2qaloUdcBZvDu,Red (Taylor's Version),Taylor Swift,2021-11-12
+229,29,2021-11-19 16:00:02.631,30,LA FAMA (with The Weeknd),6dmXZ9B5HdFAyzHeTneYBK,LA FAMA (with The Weeknd),ROSALÍA,2021-11-11
+230,30,2021-11-19 16:00:02.631,31,Ghost,6I3mqTwhRpn34SLVafSH7G,Justice,Justin Bieber,2021-03-19
+231,31,2021-11-19 16:00:02.631,32,Already Dead,7qM1BWAsZMTYh4BcYLb0uQ,Already Dead,Juice WRLD,2021-11-12
+232,32,2021-11-19 16:00:02.631,33,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),4gzsuuZypVbxs0Af1LSZyB,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Tainy,2021-10-05
+233,33,2021-11-19 16:00:02.631,34,Red (Taylor's Version),4OAuvHryIVv4kMDNSLuPt6,Red (Taylor's Version),Taylor Swift,2021-11-12
+234,34,2021-11-19 16:00:02.631,35,Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,After Hours,The Weeknd,2020-03-20
+235,35,2021-11-19 16:00:02.631,36,Where Are You Now,3uUuGVFu1V7jTQL60S1r8z,Where Are You Now,Lost Frequencies,2021-07-30
+236,36,2021-11-19 16:00:02.631,37,Yonaguni,2JPLbjOn0wPCngEot2STUS,Yonaguni,Bad Bunny,2021-06-04
+237,37,2021-11-19 16:00:02.631,38,abcdefu,4fouWK6XVHhzl78KzQ1UjL,abcdefu,GAYLE,2021-08-13
+238,38,2021-11-19 16:00:02.631,39,Life Goes On,0eu4C55hL6x29mmeAjytzC,"Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",Oliver Tree,2021-05-28
+239,39,2021-11-19 16:00:02.631,40,Meet Me At Our Spot,07MDkzWARZaLEdKxo6yArG,THE ANXIETY,THE ANXIETY,2020-03-13
+240,40,2021-11-19 16:00:02.631,41,Leave The Door Open,1LPSkqVhWVRUkKE03YUkpB,An Evening With Silk Sonic,Bruno Mars,2021-11-11
+241,41,2021-11-19 16:00:02.631,42,Better Days (NEIKED x Mae Muller x Polo G),6f5ExP43esnvdKPddwKXJH,Better Days (NEIKED x Mae Muller x Polo G),NEIKED,2021-09-24
+242,42,2021-11-19 16:00:02.631,43,traitor,5CZ40GBx1sQ9agT82CLQCT,SOUR,Olivia Rodrigo,2021-05-21
+243,43,2021-11-19 16:00:02.631,44,All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios,1n3b9Eekoy3S9ZSZ5DmTW1,All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios,Taylor Swift,2021-11-18
+244,44,2021-11-19 16:00:02.631,45,I Love You So,4SqWKzw0CbA05TGszDgMlc,I Love You So,The Walters,2014-11-28
+245,45,2021-11-19 16:00:02.631,46,Enchanted,04S1pkp1VaIqjg8zZqknR5,Speak Now,Taylor Swift,2010-01-01
+246,46,2021-11-19 16:00:02.631,47,Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault),4IQkfUsrwXol38VV3U7t7T,Red (Taylor's Version),Taylor Swift,2021-11-12
+247,47,2021-11-19 16:00:02.631,48,I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),4CkgMiMqZ5JzW9iYXSTMTL,Red (Taylor's Version),Taylor Swift,2021-11-12
+248,48,2021-11-19 16:00:02.631,49,Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault),01K4zKU104LyJ8gMb7227B,Red (Taylor's Version),Taylor Swift,2021-11-12
+249,49,2021-11-19 16:00:02.631,50,Todo De Ti,5RwV8BvLfX5injfqYodke9,VICE VERSA,Rauw Alejandro,2021-06-25
+250,0,2021-11-20 16:00:02.889,1,Easy On Me,46IZ0fSY2mpAiktS3KOqds,30,Adele,2021-11-19
+251,1,2021-11-20 16:00:02.889,2,Oh My God,3Kkjo3cT83cw09VJyrLNwX,30,Adele,2021-11-19
+252,2,2021-11-20 16:00:02.889,3,Strangers By Nature,13CVSGLSFl4UxpDVR6u3dq,30,Adele,2021-11-19
+253,3,2021-11-20 16:00:02.889,4,STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,F*CK LOVE 3: OVER YOU,The Kid LAROI,2021-07-23
+254,4,2021-11-20 16:00:02.889,5,My Little Love,2DuPBbS5mIldXnh7Wum8Cy,30,Adele,2021-11-19
+255,5,2021-11-20 16:00:02.889,6,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),5enxwA8aAbwZbf5qCHORXi,Red (Taylor's Version),Taylor Swift,2021-11-12
+256,6,2021-11-20 16:00:02.889,7,Can I Get It,6w8ZPYdnGajyfPddTWdthN,30,Adele,2021-11-19
+257,7,2021-11-20 16:00:02.889,8,I Drink Wine,6v0UJD4a2FtleHeSYVX02A,30,Adele,2021-11-19
+258,8,2021-11-20 16:00:02.889,9,INDUSTRY BABY (feat. Jack Harlow),5Z9KJZvQzH6PFmb8SNkxuk,MONTERO,Lil Nas X,2021-09-17
+259,9,2021-11-20 16:00:02.889,10,Cry Your Heart Out,09u787BYeYIGd2mFIJ505t,30,Adele,2021-11-19
+260,10,2021-11-20 16:00:02.889,11,Cold Heart - PNAU Remix,7rglLriMNBPAyuJOMGwi39,The Lockdown Sessions,Elton John,2021-10-22
+261,11,2021-11-20 16:00:02.889,12,Heat Waves,02MWAaffLxlfxAUY7c5dvx,Dreamland (+ Bonus Levels),Glass Animals,2020-08-06
+262,12,2021-11-20 16:00:02.889,13,To Be Loved,10ImcQk9tihY1EKMDIbvXJ,30,Adele,2021-11-19
+263,13,2021-11-20 16:00:02.889,14,Shivers,50nfwKoDiSYg8zOCREWAm5,=,Ed Sheeran,2021-10-29
+264,14,2021-11-20 16:00:02.889,15,All Night Parking (with Erroll Garner) Interlude,496vIKS2INz840xZaKncvR,30,Adele,2021-11-19
+265,15,2021-11-20 16:00:02.889,16,Woman Like Me,2c6xRsQBv7pynuhYhWoHxo,30,Adele,2021-11-19
+266,16,2021-11-20 16:00:02.889,17,Hold On,6bGMSP3H9YqkmaLnaJTIoF,30,Adele,2021-11-19
+267,17,2021-11-20 16:00:02.889,18,Pepas,2B4GHvToeLTOBB4QLzW3Ni,La 167,Farruko,2021-10-01
+268,18,2021-11-20 16:00:02.889,19,Bad Habits,3rmo8F54jFF8OgYsqTxm5d,=,Ed Sheeran,2021-10-29
+269,19,2021-11-20 16:00:02.889,20,Smokin Out The Window,7sMBvZCSUl99bJLXZaLa0b,An Evening With Silk Sonic,Bruno Mars,2021-11-11
+270,20,2021-11-20 16:00:02.889,21,Love Is A Game,2j3GxEsbNYNeEzz86wDY4J,30,Adele,2021-11-19
+271,21,2021-11-20 16:00:02.889,22,Enemy (with JID) - from the series Arcane League of Legends,1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) [from the series Arcane League of Legends],Imagine Dragons,2021-10-28
+272,22,2021-11-20 16:00:02.889,23,MONEY,7hU3IHwjX150XLoTVmjD0q,LALISA,LISA,2021-09-10
+273,23,2021-11-20 16:00:02.889,24,My Universe,46HNZY1i7O6jwTA7Slo2PI,Music Of The Spheres,Coldplay,2021-10-15
+274,24,2021-11-20 16:00:02.889,25,Woman,6Uj1ctrBOjOas8xZXGqKk4,Planet Her,Doja Cat,2021-06-25
+275,25,2021-11-20 16:00:02.889,26,One Right Now (with The Weeknd),00Blm7zeNqgYLPtW6zg8cj,One Right Now,Post Malone,2021-11-05
+276,26,2021-11-20 16:00:02.889,27,love nwantiti (ah ah ah),2Xr1dTzJee307rmrkt8c0g,CKay The First,CKay,2019-08-30
+277,27,2021-11-20 16:00:02.889,28,Do It To It,20on25jryn53hWghthWWW3,Do It To It,ACRAZE,2021-08-20
+278,28,2021-11-20 16:00:02.889,29,love nwantiti (feat. Dj Yo! & AX'EL) - Remix,4gvrJnKCKIPiacNsWVQwEU,love nwantiti (feat. Dj Yo! & AX'EL) [Remix],CKay,2021-09-09
+279,29,2021-11-20 16:00:02.889,30,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),09gysnJpfQ3ublBmJDfcEC,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae,2021-09-16
+280,30,2021-11-20 16:00:02.889,31,good 4 u,4ZtFanR9U6ndgddUvNcjcG,SOUR,Olivia Rodrigo,2021-05-21
+281,31,2021-11-20 16:00:02.889,32,THATS WHAT I WANT,0e8nrvls4Qqv5Rfa2UhqmO,MONTERO,Lil Nas X,2021-09-17
+282,32,2021-11-20 16:00:02.889,33,Beggin',3Wrjm47oTz2sjIgck11l5e,Chosen,Måneskin,2017-12-08
+283,33,2021-11-20 16:00:02.889,34,Need to Know,3Vi5XqYrmQgOYBajMWSvCi,Planet Her,Doja Cat,2021-06-25
+284,34,2021-11-20 16:00:02.889,35,abcdefu,4fouWK6XVHhzl78KzQ1UjL,abcdefu,GAYLE,2021-08-13
+285,35,2021-11-20 16:00:02.889,36,Toxic,2gQPv5jvVPqU2a9HhMNO1v,Toxic,BoyWithUke,2021-10-29
+286,36,2021-11-20 16:00:02.889,37,Moth To A Flame (with The Weeknd),2gpWyfu7eZ01zzncHpxOtA,Moth To A Flame,Swedish House Mafia,2021-10-22
+287,37,2021-11-20 16:00:02.889,38,Kiss Me More (feat. SZA),3DarAbFujv6eYNliUTyqtz,Planet Her,Doja Cat,2021-06-25
+288,38,2021-11-20 16:00:02.889,39,MONTERO (Call Me By Your Name),1SC5rEoYDGUK4NfG82494W,MONTERO,Lil Nas X,2021-09-17
+289,39,2021-11-20 16:00:02.889,40,Ghost,6I3mqTwhRpn34SLVafSH7G,Justice,Justin Bieber,2021-03-19
+290,40,2021-11-20 16:00:02.889,41,Happier Than Ever,4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Billie Eilish,2021-07-30
+291,41,2021-11-20 16:00:02.889,42,Where Are You Now,3uUuGVFu1V7jTQL60S1r8z,Where Are You Now,Lost Frequencies,2021-07-30
+292,42,2021-11-20 16:00:02.889,43,LA FAMA (with The Weeknd),6dmXZ9B5HdFAyzHeTneYBK,LA FAMA (with The Weeknd),ROSALÍA,2021-11-11
+293,43,2021-11-20 16:00:02.889,44,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),4gzsuuZypVbxs0Af1LSZyB,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Tainy,2021-10-05
+294,44,2021-11-20 16:00:02.889,45,Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,After Hours,The Weeknd,2020-03-20
+295,45,2021-11-20 16:00:02.889,46,Yonaguni,2JPLbjOn0wPCngEot2STUS,Yonaguni,Bad Bunny,2021-06-04
+296,46,2021-11-20 16:00:02.889,47,Already Dead,7qM1BWAsZMTYh4BcYLb0uQ,Already Dead,Juice WRLD,2021-11-12
+297,47,2021-11-20 16:00:02.889,48,Life Goes On,0eu4C55hL6x29mmeAjytzC,"Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",Oliver Tree,2021-05-28
+298,48,2021-11-20 16:00:02.889,49,Meet Me At Our Spot,07MDkzWARZaLEdKxo6yArG,THE ANXIETY,THE ANXIETY,2020-03-13
+299,49,2021-11-20 16:00:02.889,50,All Too Well (Taylor's Version),3nsfB1vus2qaloUdcBZvDu,Red (Taylor's Version),Taylor Swift,2021-11-12
+300,0,2021-11-21 16:00:02.386,1,Easy On Me,46IZ0fSY2mpAiktS3KOqds,30,Adele,2021-11-19
+301,1,2021-11-21 16:00:02.386,2,STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,F*CK LOVE 3: OVER YOU,The Kid LAROI,2021-07-23
+302,2,2021-11-21 16:00:02.386,3,Oh My God,3Kkjo3cT83cw09VJyrLNwX,30,Adele,2021-11-19
+303,3,2021-11-21 16:00:02.386,4,INDUSTRY BABY (feat. Jack Harlow),5Z9KJZvQzH6PFmb8SNkxuk,MONTERO,Lil Nas X,2021-09-17
+304,4,2021-11-21 16:00:02.386,5,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),5enxwA8aAbwZbf5qCHORXi,Red (Taylor's Version),Taylor Swift,2021-11-12
+305,5,2021-11-21 16:00:02.386,6,Cold Heart - PNAU Remix,7rglLriMNBPAyuJOMGwi39,The Lockdown Sessions,Elton John,2021-10-22
+306,6,2021-11-21 16:00:02.386,7,Heat Waves,02MWAaffLxlfxAUY7c5dvx,Dreamland (+ Bonus Levels),Glass Animals,2020-08-06
+307,7,2021-11-21 16:00:02.386,8,Shivers,50nfwKoDiSYg8zOCREWAm5,=,Ed Sheeran,2021-10-29
+308,8,2021-11-21 16:00:02.386,9,Can I Get It,6w8ZPYdnGajyfPddTWdthN,30,Adele,2021-11-19
+309,9,2021-11-21 16:00:02.386,10,Pepas,2B4GHvToeLTOBB4QLzW3Ni,La 167,Farruko,2021-10-01
+310,10,2021-11-21 16:00:02.386,11,I Drink Wine,6v0UJD4a2FtleHeSYVX02A,30,Adele,2021-11-19
+311,11,2021-11-21 16:00:02.386,12,My Little Love,2DuPBbS5mIldXnh7Wum8Cy,30,Adele,2021-11-19
+312,12,2021-11-21 16:00:02.386,13,Strangers By Nature,13CVSGLSFl4UxpDVR6u3dq,30,Adele,2021-11-19
+313,13,2021-11-21 16:00:02.386,14,To Be Loved,10ImcQk9tihY1EKMDIbvXJ,30,Adele,2021-11-19
+314,14,2021-11-21 16:00:02.386,15,Cry Your Heart Out,09u787BYeYIGd2mFIJ505t,30,Adele,2021-11-19
+315,15,2021-11-21 16:00:02.386,16,Smokin Out The Window,7sMBvZCSUl99bJLXZaLa0b,An Evening With Silk Sonic,Bruno Mars,2021-11-11
+316,16,2021-11-21 16:00:02.386,17,Bad Habits,3rmo8F54jFF8OgYsqTxm5d,=,Ed Sheeran,2021-10-29
+317,17,2021-11-21 16:00:02.386,18,Enemy (with JID) - from the series Arcane League of Legends,1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) [from the series Arcane League of Legends],Imagine Dragons,2021-10-28
+318,18,2021-11-21 16:00:02.386,19,Woman,6Uj1ctrBOjOas8xZXGqKk4,Planet Her,Doja Cat,2021-06-25
+319,19,2021-11-21 16:00:02.386,20,MONEY,7hU3IHwjX150XLoTVmjD0q,LALISA,LISA,2021-09-10
+320,20,2021-11-21 16:00:02.386,21,My Universe,46HNZY1i7O6jwTA7Slo2PI,Music Of The Spheres,Coldplay,2021-10-15
+321,21,2021-11-21 16:00:02.386,22,love nwantiti (ah ah ah),2Xr1dTzJee307rmrkt8c0g,CKay The First,CKay,2019-08-30
+322,22,2021-11-21 16:00:02.386,23,One Right Now (with The Weeknd),00Blm7zeNqgYLPtW6zg8cj,One Right Now,Post Malone,2021-11-05
+323,23,2021-11-21 16:00:02.386,24,All Night Parking (with Erroll Garner) Interlude,496vIKS2INz840xZaKncvR,30,Adele,2021-11-19
+324,24,2021-11-21 16:00:02.386,25,Woman Like Me,2c6xRsQBv7pynuhYhWoHxo,30,Adele,2021-11-19
+325,25,2021-11-21 16:00:02.386,26,Hold On,6bGMSP3H9YqkmaLnaJTIoF,30,Adele,2021-11-19
+326,26,2021-11-21 16:00:02.386,27,Do It To It,20on25jryn53hWghthWWW3,Do It To It,ACRAZE,2021-08-20
+327,27,2021-11-21 16:00:02.386,28,love nwantiti (feat. Dj Yo! & AX'EL) - Remix,4gvrJnKCKIPiacNsWVQwEU,love nwantiti (feat. Dj Yo! & AX'EL) [Remix],CKay,2021-09-09
+328,28,2021-11-21 16:00:02.386,29,Toxic,2gQPv5jvVPqU2a9HhMNO1v,Toxic,BoyWithUke,2021-10-29
+329,29,2021-11-21 16:00:02.386,30,good 4 u,4ZtFanR9U6ndgddUvNcjcG,SOUR,Olivia Rodrigo,2021-05-21
+330,30,2021-11-21 16:00:02.386,31,Beggin',3Wrjm47oTz2sjIgck11l5e,Chosen,Måneskin,2017-12-08
+331,31,2021-11-21 16:00:02.386,32,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),09gysnJpfQ3ublBmJDfcEC,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae,2021-09-16
+332,32,2021-11-21 16:00:02.386,33,Love Is A Game,2j3GxEsbNYNeEzz86wDY4J,30,Adele,2021-11-19
+333,33,2021-11-21 16:00:02.386,34,THATS WHAT I WANT,0e8nrvls4Qqv5Rfa2UhqmO,MONTERO,Lil Nas X,2021-09-17
+334,34,2021-11-21 16:00:02.386,35,abcdefu,4fouWK6XVHhzl78KzQ1UjL,abcdefu,GAYLE,2021-08-13
+335,35,2021-11-21 16:00:02.386,36,Need to Know,3Vi5XqYrmQgOYBajMWSvCi,Planet Her,Doja Cat,2021-06-25
+336,36,2021-11-21 16:00:02.386,37,Kiss Me More (feat. SZA),3DarAbFujv6eYNliUTyqtz,Planet Her,Doja Cat,2021-06-25
+337,37,2021-11-21 16:00:02.386,38,MONTERO (Call Me By Your Name),1SC5rEoYDGUK4NfG82494W,MONTERO,Lil Nas X,2021-09-17
+338,38,2021-11-21 16:00:02.386,39,Ghost,6I3mqTwhRpn34SLVafSH7G,Justice,Justin Bieber,2021-03-19
+339,39,2021-11-21 16:00:02.386,40,Moth To A Flame (with The Weeknd),2gpWyfu7eZ01zzncHpxOtA,Moth To A Flame,Swedish House Mafia,2021-10-22
+340,40,2021-11-21 16:00:02.386,41,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),4gzsuuZypVbxs0Af1LSZyB,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Tainy,2021-10-05
+341,41,2021-11-21 16:00:02.386,42,Where Are You Now,3uUuGVFu1V7jTQL60S1r8z,Where Are You Now,Lost Frequencies,2021-07-30
+342,42,2021-11-21 16:00:02.386,43,Yonaguni,2JPLbjOn0wPCngEot2STUS,Yonaguni,Bad Bunny,2021-06-04
+343,43,2021-11-21 16:00:02.386,44,Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,After Hours,The Weeknd,2020-03-20
+344,44,2021-11-21 16:00:02.386,45,All I Want for Christmas Is You,0bYg9bo50gSsH3LtXe2SQn,Merry Christmas,Mariah Carey,1994-11-01
+345,45,2021-11-21 16:00:02.386,46,Happier Than Ever,4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Billie Eilish,2021-07-30
+346,46,2021-11-21 16:00:02.386,47,LA FAMA (with The Weeknd),6dmXZ9B5HdFAyzHeTneYBK,LA FAMA (with The Weeknd),ROSALÍA,2021-11-11
+347,47,2021-11-21 16:00:02.386,48,Life Goes On,0eu4C55hL6x29mmeAjytzC,"Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",Oliver Tree,2021-05-28
+348,48,2021-11-21 16:00:02.386,49,Meet Me At Our Spot,07MDkzWARZaLEdKxo6yArG,THE ANXIETY,THE ANXIETY,2020-03-13
+349,49,2021-11-21 16:00:02.386,50,Better Days (NEIKED x Mae Muller x Polo G),6f5ExP43esnvdKPddwKXJH,Better Days (NEIKED x Mae Muller x Polo G),NEIKED,2021-09-24
+350,0,2021-11-22 16:00:03.597,1,Easy On Me,46IZ0fSY2mpAiktS3KOqds,30,Adele,2021-11-19
+351,1,2021-11-22 16:00:03.597,2,STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,F*CK LOVE 3: OVER YOU,The Kid LAROI,2021-07-23
+352,2,2021-11-22 16:00:03.597,3,Oh My God,3Kkjo3cT83cw09VJyrLNwX,30,Adele,2021-11-19
+353,3,2021-11-22 16:00:03.597,4,INDUSTRY BABY (feat. Jack Harlow),5Z9KJZvQzH6PFmb8SNkxuk,MONTERO,Lil Nas X,2021-09-17
+354,4,2021-11-22 16:00:03.597,5,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),5enxwA8aAbwZbf5qCHORXi,Red (Taylor's Version),Taylor Swift,2021-11-12
+355,5,2021-11-22 16:00:03.597,6,Cold Heart - PNAU Remix,7rglLriMNBPAyuJOMGwi39,The Lockdown Sessions,Elton John,2021-10-22
+356,6,2021-11-22 16:00:03.597,7,Heat Waves,02MWAaffLxlfxAUY7c5dvx,Dreamland (+ Bonus Levels),Glass Animals,2020-08-06
+357,7,2021-11-22 16:00:03.597,8,Shivers,50nfwKoDiSYg8zOCREWAm5,=,Ed Sheeran,2021-10-29
+358,8,2021-11-22 16:00:03.597,9,Pepas,2B4GHvToeLTOBB4QLzW3Ni,La 167,Farruko,2021-10-01
+359,9,2021-11-22 16:00:03.597,10,Can I Get It,6w8ZPYdnGajyfPddTWdthN,30,Adele,2021-11-19
+360,10,2021-11-22 16:00:03.597,11,Bad Habits,3rmo8F54jFF8OgYsqTxm5d,=,Ed Sheeran,2021-10-29
+361,11,2021-11-22 16:00:03.597,12,My Little Love,2DuPBbS5mIldXnh7Wum8Cy,30,Adele,2021-11-19
+362,12,2021-11-22 16:00:03.597,13,I Drink Wine,6v0UJD4a2FtleHeSYVX02A,30,Adele,2021-11-19
+363,13,2021-11-22 16:00:03.597,14,Enemy (with JID) - from the series Arcane League of Legends,1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) [from the series Arcane League of Legends],Imagine Dragons,2021-10-28
+364,14,2021-11-22 16:00:03.597,15,Smokin Out The Window,7sMBvZCSUl99bJLXZaLa0b,An Evening With Silk Sonic,Bruno Mars,2021-11-11
+365,15,2021-11-22 16:00:03.597,16,Strangers By Nature,13CVSGLSFl4UxpDVR6u3dq,30,Adele,2021-11-19
+366,16,2021-11-22 16:00:03.597,17,MONEY,7hU3IHwjX150XLoTVmjD0q,LALISA,LISA,2021-09-10
+367,17,2021-11-22 16:00:03.597,18,Woman,6Uj1ctrBOjOas8xZXGqKk4,Planet Her,Doja Cat,2021-06-25
+368,18,2021-11-22 16:00:03.597,19,My Universe,46HNZY1i7O6jwTA7Slo2PI,Music Of The Spheres,Coldplay,2021-10-15
+369,19,2021-11-22 16:00:03.597,20,Cry Your Heart Out,09u787BYeYIGd2mFIJ505t,30,Adele,2021-11-19
+370,20,2021-11-22 16:00:03.597,21,To Be Loved,10ImcQk9tihY1EKMDIbvXJ,30,Adele,2021-11-19
+371,21,2021-11-22 16:00:03.597,22,love nwantiti (ah ah ah),2Xr1dTzJee307rmrkt8c0g,CKay The First,CKay,2019-08-30
+372,22,2021-11-22 16:00:03.597,23,One Right Now (with The Weeknd),00Blm7zeNqgYLPtW6zg8cj,One Right Now,Post Malone,2021-11-05
+373,23,2021-11-22 16:00:03.597,24,Toxic,2gQPv5jvVPqU2a9HhMNO1v,Toxic,BoyWithUke,2021-10-29
+374,24,2021-11-22 16:00:03.597,25,abcdefu,4fouWK6XVHhzl78KzQ1UjL,abcdefu,GAYLE,2021-08-13
+375,25,2021-11-22 16:00:03.597,26,love nwantiti (feat. Dj Yo! & AX'EL) - Remix,4gvrJnKCKIPiacNsWVQwEU,love nwantiti (feat. Dj Yo! & AX'EL) [Remix],CKay,2021-09-09
+376,26,2021-11-22 16:00:03.597,27,good 4 u,4ZtFanR9U6ndgddUvNcjcG,SOUR,Olivia Rodrigo,2021-05-21
+377,27,2021-11-22 16:00:03.597,28,All I Want for Christmas Is You,0bYg9bo50gSsH3LtXe2SQn,Merry Christmas,Mariah Carey,1994-11-01
+378,28,2021-11-22 16:00:03.597,29,Do It To It,20on25jryn53hWghthWWW3,Do It To It,ACRAZE,2021-08-20
+379,29,2021-11-22 16:00:03.597,30,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),09gysnJpfQ3ublBmJDfcEC,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae,2021-09-16
+380,30,2021-11-22 16:00:03.597,31,All Night Parking (with Erroll Garner) Interlude,496vIKS2INz840xZaKncvR,30,Adele,2021-11-19
+381,31,2021-11-22 16:00:03.597,32,Need to Know,3Vi5XqYrmQgOYBajMWSvCi,Planet Her,Doja Cat,2021-06-25
+382,32,2021-11-22 16:00:03.597,33,Woman Like Me,2c6xRsQBv7pynuhYhWoHxo,30,Adele,2021-11-19
+383,33,2021-11-22 16:00:03.597,34,Beggin',3Wrjm47oTz2sjIgck11l5e,Chosen,Måneskin,2017-12-08
+384,34,2021-11-22 16:00:03.597,35,THATS WHAT I WANT,0e8nrvls4Qqv5Rfa2UhqmO,MONTERO,Lil Nas X,2021-09-17
+385,35,2021-11-22 16:00:03.597,36,Hold On,6bGMSP3H9YqkmaLnaJTIoF,30,Adele,2021-11-19
+386,36,2021-11-22 16:00:03.597,37,Kiss Me More (feat. SZA),3DarAbFujv6eYNliUTyqtz,Planet Her,Doja Cat,2021-06-25
+387,37,2021-11-22 16:00:03.597,38,MONTERO (Call Me By Your Name),1SC5rEoYDGUK4NfG82494W,MONTERO,Lil Nas X,2021-09-17
+388,38,2021-11-22 16:00:03.597,39,Happier Than Ever,4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Billie Eilish,2021-07-30
+389,39,2021-11-22 16:00:03.597,40,Ghost,6I3mqTwhRpn34SLVafSH7G,Justice,Justin Bieber,2021-03-19
+390,40,2021-11-22 16:00:03.597,41,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),4gzsuuZypVbxs0Af1LSZyB,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Tainy,2021-10-05
+391,41,2021-11-22 16:00:03.597,42,Yonaguni,2JPLbjOn0wPCngEot2STUS,Yonaguni,Bad Bunny,2021-06-04
+392,42,2021-11-22 16:00:03.597,43,Love Is A Game,2j3GxEsbNYNeEzz86wDY4J,30,Adele,2021-11-19
+393,43,2021-11-22 16:00:03.597,44,Moth To A Flame (with The Weeknd),2gpWyfu7eZ01zzncHpxOtA,Moth To A Flame,Swedish House Mafia,2021-10-22
+394,44,2021-11-22 16:00:03.597,45,Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,After Hours,The Weeknd,2020-03-20
+395,45,2021-11-22 16:00:03.597,46,Life Goes On,0eu4C55hL6x29mmeAjytzC,"Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",Oliver Tree,2021-05-28
+396,46,2021-11-22 16:00:03.597,47,Where Are You Now,3uUuGVFu1V7jTQL60S1r8z,Where Are You Now,Lost Frequencies,2021-07-30
+397,47,2021-11-22 16:00:03.597,48,LA FAMA (with The Weeknd),6dmXZ9B5HdFAyzHeTneYBK,LA FAMA (with The Weeknd),ROSALÍA,2021-11-11
+398,48,2021-11-22 16:00:03.597,49,Meet Me At Our Spot,07MDkzWARZaLEdKxo6yArG,THE ANXIETY,THE ANXIETY,2020-03-13
+399,49,2021-11-22 16:00:03.597,50,Better Days (NEIKED x Mae Muller x Polo G),6f5ExP43esnvdKPddwKXJH,Better Days (NEIKED x Mae Muller x Polo G),NEIKED,2021-09-24
+400,0,2021-11-23 16:00:03.808,1,Easy On Me,46IZ0fSY2mpAiktS3KOqds,30,Adele,2021-11-19
+401,1,2021-11-23 16:00:03.808,2,STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,F*CK LOVE 3: OVER YOU,The Kid LAROI,2021-07-23
+402,2,2021-11-23 16:00:03.808,3,Oh My God,3Kkjo3cT83cw09VJyrLNwX,30,Adele,2021-11-19
+403,3,2021-11-23 16:00:03.808,4,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),5enxwA8aAbwZbf5qCHORXi,Red (Taylor's Version),Taylor Swift,2021-11-12
+404,4,2021-11-23 16:00:03.808,5,INDUSTRY BABY (feat. Jack Harlow),5Z9KJZvQzH6PFmb8SNkxuk,MONTERO,Lil Nas X,2021-09-17
+405,5,2021-11-23 16:00:03.808,6,Cold Heart - PNAU Remix,7rglLriMNBPAyuJOMGwi39,The Lockdown Sessions,Elton John,2021-10-22
+406,6,2021-11-23 16:00:03.808,7,Heat Waves,02MWAaffLxlfxAUY7c5dvx,Dreamland (+ Bonus Levels),Glass Animals,2020-08-06
+407,7,2021-11-23 16:00:03.808,8,Shivers,50nfwKoDiSYg8zOCREWAm5,=,Ed Sheeran,2021-10-29
+408,8,2021-11-23 16:00:03.808,9,Can I Get It,6w8ZPYdnGajyfPddTWdthN,30,Adele,2021-11-19
+409,9,2021-11-23 16:00:03.808,10,Enemy (with JID) - from the series Arcane League of Legends,1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) [from the series Arcane League of Legends],Imagine Dragons,2021-10-28
+410,10,2021-11-23 16:00:03.808,11,I Drink Wine,6v0UJD4a2FtleHeSYVX02A,30,Adele,2021-11-19
+411,11,2021-11-23 16:00:03.808,12,My Little Love,2DuPBbS5mIldXnh7Wum8Cy,30,Adele,2021-11-19
+412,12,2021-11-23 16:00:03.808,13,Pepas,2B4GHvToeLTOBB4QLzW3Ni,La 167,Farruko,2021-10-01
+413,13,2021-11-23 16:00:03.808,14,Bad Habits,3rmo8F54jFF8OgYsqTxm5d,=,Ed Sheeran,2021-10-29
+414,14,2021-11-23 16:00:03.808,15,Smokin Out The Window,7sMBvZCSUl99bJLXZaLa0b,An Evening With Silk Sonic,Bruno Mars,2021-11-11
+415,15,2021-11-23 16:00:03.808,16,Strangers By Nature,13CVSGLSFl4UxpDVR6u3dq,30,Adele,2021-11-19
+416,16,2021-11-23 16:00:03.808,17,abcdefu,4fouWK6XVHhzl78KzQ1UjL,abcdefu,GAYLE,2021-08-13
+417,17,2021-11-23 16:00:03.808,18,My Universe,46HNZY1i7O6jwTA7Slo2PI,Music Of The Spheres,Coldplay,2021-10-15
+418,18,2021-11-23 16:00:03.808,19,MONEY,7hU3IHwjX150XLoTVmjD0q,LALISA,LISA,2021-09-10
+419,19,2021-11-23 16:00:03.808,20,Woman,6Uj1ctrBOjOas8xZXGqKk4,Planet Her,Doja Cat,2021-06-25
+420,20,2021-11-23 16:00:03.808,21,Cry Your Heart Out,09u787BYeYIGd2mFIJ505t,30,Adele,2021-11-19
+421,21,2021-11-23 16:00:03.808,22,To Be Loved,10ImcQk9tihY1EKMDIbvXJ,30,Adele,2021-11-19
+422,22,2021-11-23 16:00:03.808,23,One Right Now (with The Weeknd),00Blm7zeNqgYLPtW6zg8cj,One Right Now,Post Malone,2021-11-05
+423,23,2021-11-23 16:00:03.808,24,love nwantiti (ah ah ah),2Xr1dTzJee307rmrkt8c0g,CKay The First,CKay,2019-08-30
+424,24,2021-11-23 16:00:03.808,25,Do It To It,20on25jryn53hWghthWWW3,Do It To It,ACRAZE,2021-08-20
+425,25,2021-11-23 16:00:03.808,26,Toxic,2gQPv5jvVPqU2a9HhMNO1v,Toxic,BoyWithUke,2021-10-29
+426,26,2021-11-23 16:00:03.808,27,good 4 u,4ZtFanR9U6ndgddUvNcjcG,SOUR,Olivia Rodrigo,2021-05-21
+427,27,2021-11-23 16:00:03.808,28,All Night Parking (with Erroll Garner) Interlude,496vIKS2INz840xZaKncvR,30,Adele,2021-11-19
+428,28,2021-11-23 16:00:03.808,29,Hold On,6bGMSP3H9YqkmaLnaJTIoF,30,Adele,2021-11-19
+429,29,2021-11-23 16:00:03.808,30,Woman Like Me,2c6xRsQBv7pynuhYhWoHxo,30,Adele,2021-11-19
+430,30,2021-11-23 16:00:03.808,31,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),09gysnJpfQ3ublBmJDfcEC,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae,2021-09-16
+431,31,2021-11-23 16:00:03.808,32,love nwantiti (feat. Dj Yo! & AX'EL) - Remix,4gvrJnKCKIPiacNsWVQwEU,love nwantiti (feat. Dj Yo! & AX'EL) [Remix],CKay,2021-09-09
+432,32,2021-11-23 16:00:03.808,33,Need to Know,3Vi5XqYrmQgOYBajMWSvCi,Planet Her,Doja Cat,2021-06-25
+433,33,2021-11-23 16:00:03.808,34,THATS WHAT I WANT,0e8nrvls4Qqv5Rfa2UhqmO,MONTERO,Lil Nas X,2021-09-17
+434,34,2021-11-23 16:00:03.808,35,Beggin',3Wrjm47oTz2sjIgck11l5e,Chosen,Måneskin,2017-12-08
+435,35,2021-11-23 16:00:03.808,36,Kiss Me More (feat. SZA),3DarAbFujv6eYNliUTyqtz,Planet Her,Doja Cat,2021-06-25
+436,36,2021-11-23 16:00:03.808,37,Ghost,6I3mqTwhRpn34SLVafSH7G,Justice,Justin Bieber,2021-03-19
+437,37,2021-11-23 16:00:03.808,38,Happier Than Ever,4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Billie Eilish,2021-07-30
+438,38,2021-11-23 16:00:03.808,39,MONTERO (Call Me By Your Name),1SC5rEoYDGUK4NfG82494W,MONTERO,Lil Nas X,2021-09-17
+439,39,2021-11-23 16:00:03.808,40,Love Is A Game,2j3GxEsbNYNeEzz86wDY4J,30,Adele,2021-11-19
+440,40,2021-11-23 16:00:03.808,41,Moth To A Flame (with The Weeknd),2gpWyfu7eZ01zzncHpxOtA,Moth To A Flame,Swedish House Mafia,2021-10-22
+441,41,2021-11-23 16:00:03.808,42,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),4gzsuuZypVbxs0Af1LSZyB,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Tainy,2021-10-05
+442,42,2021-11-23 16:00:03.808,43,All I Want for Christmas Is You,0bYg9bo50gSsH3LtXe2SQn,Merry Christmas,Mariah Carey,1994-11-01
+443,43,2021-11-23 16:00:03.808,44,Where Are You Now,3uUuGVFu1V7jTQL60S1r8z,Where Are You Now,Lost Frequencies,2021-07-30
+444,44,2021-11-23 16:00:03.808,45,LA FAMA (with The Weeknd),6dmXZ9B5HdFAyzHeTneYBK,LA FAMA (with The Weeknd),ROSALÍA,2021-11-11
+445,45,2021-11-23 16:00:03.808,46,Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,After Hours,The Weeknd,2020-03-20
+446,46,2021-11-23 16:00:03.808,47,Meet Me At Our Spot,07MDkzWARZaLEdKxo6yArG,THE ANXIETY,THE ANXIETY,2020-03-13
+447,47,2021-11-23 16:00:03.808,48,Yonaguni,2JPLbjOn0wPCngEot2STUS,Yonaguni,Bad Bunny,2021-06-04
+448,48,2021-11-23 16:00:03.808,49,Life Goes On,0eu4C55hL6x29mmeAjytzC,"Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",Oliver Tree,2021-05-28
+449,49,2021-11-23 16:00:03.808,50,Better Days (NEIKED x Mae Muller x Polo G),6f5ExP43esnvdKPddwKXJH,Better Days (NEIKED x Mae Muller x Polo G),NEIKED,2021-09-24
+450,0,2021-11-24 16:00:03.607,1,Easy On Me,46IZ0fSY2mpAiktS3KOqds,30,Adele,2021-11-19
+451,1,2021-11-24 16:00:03.607,2,STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,F*CK LOVE 3: OVER YOU,The Kid LAROI,2021-07-23
+452,2,2021-11-24 16:00:03.607,3,Oh My God,3Kkjo3cT83cw09VJyrLNwX,30,Adele,2021-11-19
+453,3,2021-11-24 16:00:03.607,4,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),5enxwA8aAbwZbf5qCHORXi,Red (Taylor's Version),Taylor Swift,2021-11-12
+454,4,2021-11-24 16:00:03.607,5,INDUSTRY BABY (feat. Jack Harlow),5Z9KJZvQzH6PFmb8SNkxuk,MONTERO,Lil Nas X,2021-09-17
+455,5,2021-11-24 16:00:03.607,6,Cold Heart - PNAU Remix,7rglLriMNBPAyuJOMGwi39,The Lockdown Sessions,Elton John,2021-10-22
+456,6,2021-11-24 16:00:03.607,7,Heat Waves,02MWAaffLxlfxAUY7c5dvx,Dreamland (+ Bonus Levels),Glass Animals,2020-08-06
+457,7,2021-11-24 16:00:03.607,8,Shivers,50nfwKoDiSYg8zOCREWAm5,=,Ed Sheeran,2021-10-29
+458,8,2021-11-24 16:00:03.607,9,Enemy (with JID) - from the series Arcane League of Legends,1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) [from the series Arcane League of Legends],Imagine Dragons,2021-10-28
+459,9,2021-11-24 16:00:03.607,10,Bad Habits,3rmo8F54jFF8OgYsqTxm5d,=,Ed Sheeran,2021-10-29
+460,10,2021-11-24 16:00:03.607,11,abcdefu,4fouWK6XVHhzl78KzQ1UjL,abcdefu,GAYLE,2021-08-13
+461,11,2021-11-24 16:00:03.607,12,Pepas,2B4GHvToeLTOBB4QLzW3Ni,La 167,Farruko,2021-10-01
+462,12,2021-11-24 16:00:03.607,13,Can I Get It,6w8ZPYdnGajyfPddTWdthN,30,Adele,2021-11-19
+463,13,2021-11-24 16:00:03.607,14,Smokin Out The Window,7sMBvZCSUl99bJLXZaLa0b,An Evening With Silk Sonic,Bruno Mars,2021-11-11
+464,14,2021-11-24 16:00:03.607,15,My Universe,46HNZY1i7O6jwTA7Slo2PI,Music Of The Spheres,Coldplay,2021-10-15
+465,15,2021-11-24 16:00:03.607,16,I Drink Wine,6v0UJD4a2FtleHeSYVX02A,30,Adele,2021-11-19
+466,16,2021-11-24 16:00:03.607,17,My Little Love,2DuPBbS5mIldXnh7Wum8Cy,30,Adele,2021-11-19
+467,17,2021-11-24 16:00:03.607,18,Woman,6Uj1ctrBOjOas8xZXGqKk4,Planet Her,Doja Cat,2021-06-25
+468,18,2021-11-24 16:00:03.607,19,MONEY,7hU3IHwjX150XLoTVmjD0q,LALISA,LISA,2021-09-10
+469,19,2021-11-24 16:00:03.607,20,One Right Now (with The Weeknd),00Blm7zeNqgYLPtW6zg8cj,One Right Now,Post Malone,2021-11-05
+470,20,2021-11-24 16:00:03.607,21,Do It To It,20on25jryn53hWghthWWW3,Do It To It,ACRAZE,2021-08-20
+471,21,2021-11-24 16:00:03.607,22,love nwantiti (ah ah ah),2Xr1dTzJee307rmrkt8c0g,CKay The First,CKay,2019-08-30
+472,22,2021-11-24 16:00:03.607,23,good 4 u,4ZtFanR9U6ndgddUvNcjcG,SOUR,Olivia Rodrigo,2021-05-21
+473,23,2021-11-24 16:00:03.607,24,Toxic,2gQPv5jvVPqU2a9HhMNO1v,Toxic,BoyWithUke,2021-10-29
+474,24,2021-11-24 16:00:03.607,25,Strangers By Nature,13CVSGLSFl4UxpDVR6u3dq,30,Adele,2021-11-19
+475,25,2021-11-24 16:00:03.607,26,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),09gysnJpfQ3ublBmJDfcEC,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae,2021-09-16
+476,26,2021-11-24 16:00:03.607,27,love nwantiti (feat. Dj Yo! & AX'EL) - Remix,4gvrJnKCKIPiacNsWVQwEU,love nwantiti (feat. Dj Yo! & AX'EL) [Remix],CKay,2021-09-09
+477,27,2021-11-24 16:00:03.607,28,Cry Your Heart Out,09u787BYeYIGd2mFIJ505t,30,Adele,2021-11-19
+478,28,2021-11-24 16:00:03.607,29,THATS WHAT I WANT,0e8nrvls4Qqv5Rfa2UhqmO,MONTERO,Lil Nas X,2021-09-17
+479,29,2021-11-24 16:00:03.607,30,To Be Loved,10ImcQk9tihY1EKMDIbvXJ,30,Adele,2021-11-19
+480,30,2021-11-24 16:00:03.607,31,Need to Know,3Vi5XqYrmQgOYBajMWSvCi,Planet Her,Doja Cat,2021-06-25
+481,31,2021-11-24 16:00:03.607,32,Kiss Me More (feat. SZA),3DarAbFujv6eYNliUTyqtz,Planet Her,Doja Cat,2021-06-25
+482,32,2021-11-24 16:00:03.607,33,Beggin',3Wrjm47oTz2sjIgck11l5e,Chosen,Måneskin,2017-12-08
+483,33,2021-11-24 16:00:03.607,34,Happier Than Ever,4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Billie Eilish,2021-07-30
+484,34,2021-11-24 16:00:03.607,35,Ghost,6I3mqTwhRpn34SLVafSH7G,Justice,Justin Bieber,2021-03-19
+485,35,2021-11-24 16:00:03.607,36,MONTERO (Call Me By Your Name),1SC5rEoYDGUK4NfG82494W,MONTERO,Lil Nas X,2021-09-17
+486,36,2021-11-24 16:00:03.607,37,Moth To A Flame (with The Weeknd),2gpWyfu7eZ01zzncHpxOtA,Moth To A Flame,Swedish House Mafia,2021-10-22
+487,37,2021-11-24 16:00:03.607,38,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),4gzsuuZypVbxs0Af1LSZyB,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Tainy,2021-10-05
+488,38,2021-11-24 16:00:03.607,39,All I Want for Christmas Is You,0bYg9bo50gSsH3LtXe2SQn,Merry Christmas,Mariah Carey,1994-11-01
+489,39,2021-11-24 16:00:03.607,40,Hold On,6bGMSP3H9YqkmaLnaJTIoF,30,Adele,2021-11-19
+490,40,2021-11-24 16:00:03.607,41,All Night Parking (with Erroll Garner) Interlude,496vIKS2INz840xZaKncvR,30,Adele,2021-11-19
+491,41,2021-11-24 16:00:03.607,42,Where Are You Now,3uUuGVFu1V7jTQL60S1r8z,Where Are You Now,Lost Frequencies,2021-07-30
+492,42,2021-11-24 16:00:03.607,43,Woman Like Me,2c6xRsQBv7pynuhYhWoHxo,30,Adele,2021-11-19
+493,43,2021-11-24 16:00:03.607,44,Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,After Hours,The Weeknd,2020-03-20
+494,44,2021-11-24 16:00:03.607,45,Yonaguni,2JPLbjOn0wPCngEot2STUS,Yonaguni,Bad Bunny,2021-06-04
+495,45,2021-11-24 16:00:03.607,46,LA FAMA (with The Weeknd),6dmXZ9B5HdFAyzHeTneYBK,LA FAMA (with The Weeknd),ROSALÍA,2021-11-11
+496,46,2021-11-24 16:00:03.607,47,Meet Me At Our Spot,07MDkzWARZaLEdKxo6yArG,THE ANXIETY,THE ANXIETY,2020-03-13
+497,47,2021-11-24 16:00:03.607,48,Life Goes On,0eu4C55hL6x29mmeAjytzC,"Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",Oliver Tree,2021-05-28
+498,48,2021-11-24 16:00:03.607,49,traitor,5CZ40GBx1sQ9agT82CLQCT,SOUR,Olivia Rodrigo,2021-05-21
+499,49,2021-11-24 16:00:03.607,50,Better Days (NEIKED x Mae Muller x Polo G),6f5ExP43esnvdKPddwKXJH,Better Days (NEIKED x Mae Muller x Polo G),NEIKED,2021-09-24
+500,0,2021-11-25 16:00:03.701,1,Easy On Me,46IZ0fSY2mpAiktS3KOqds,30,Adele,2021-11-19
+501,1,2021-11-25 16:00:03.701,2,STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,F*CK LOVE 3: OVER YOU,The Kid LAROI,2021-07-23
+502,2,2021-11-25 16:00:03.701,3,INDUSTRY BABY (feat. Jack Harlow),5Z9KJZvQzH6PFmb8SNkxuk,MONTERO,Lil Nas X,2021-09-17
+503,3,2021-11-25 16:00:03.701,4,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),5enxwA8aAbwZbf5qCHORXi,Red (Taylor's Version),Taylor Swift,2021-11-12
+504,4,2021-11-25 16:00:03.701,5,Oh My God,3Kkjo3cT83cw09VJyrLNwX,30,Adele,2021-11-19
+505,5,2021-11-25 16:00:03.701,6,Cold Heart - PNAU Remix,7rglLriMNBPAyuJOMGwi39,The Lockdown Sessions,Elton John,2021-10-22
+506,6,2021-11-25 16:00:03.701,7,Heat Waves,02MWAaffLxlfxAUY7c5dvx,Dreamland (+ Bonus Levels),Glass Animals,2020-08-06
+507,7,2021-11-25 16:00:03.701,8,Shivers,50nfwKoDiSYg8zOCREWAm5,=,Ed Sheeran,2021-10-29
+508,8,2021-11-25 16:00:03.701,9,abcdefu,4fouWK6XVHhzl78KzQ1UjL,abcdefu,GAYLE,2021-08-13
+509,9,2021-11-25 16:00:03.701,10,Enemy (with JID) - from the series Arcane League of Legends,1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) [from the series Arcane League of Legends],Imagine Dragons,2021-10-28
+510,10,2021-11-25 16:00:03.701,11,Bad Habits,3rmo8F54jFF8OgYsqTxm5d,=,Ed Sheeran,2021-10-29
+511,11,2021-11-25 16:00:03.701,12,Pepas,2B4GHvToeLTOBB4QLzW3Ni,La 167,Farruko,2021-10-01
+512,12,2021-11-25 16:00:03.701,13,Smokin Out The Window,7sMBvZCSUl99bJLXZaLa0b,An Evening With Silk Sonic,Bruno Mars,2021-11-11
+513,13,2021-11-25 16:00:03.701,14,My Universe,46HNZY1i7O6jwTA7Slo2PI,Music Of The Spheres,Coldplay,2021-10-15
+514,14,2021-11-25 16:00:03.701,15,Can I Get It,6w8ZPYdnGajyfPddTWdthN,30,Adele,2021-11-19
+515,15,2021-11-25 16:00:03.701,16,Woman,6Uj1ctrBOjOas8xZXGqKk4,Planet Her,Doja Cat,2021-06-25
+516,16,2021-11-25 16:00:03.701,17,MONEY,7hU3IHwjX150XLoTVmjD0q,LALISA,LISA,2021-09-10
+517,17,2021-11-25 16:00:03.701,18,One Right Now (with The Weeknd),00Blm7zeNqgYLPtW6zg8cj,One Right Now,Post Malone,2021-11-05
+518,18,2021-11-25 16:00:03.701,19,Do It To It,20on25jryn53hWghthWWW3,Do It To It,ACRAZE,2021-08-20
+519,19,2021-11-25 16:00:03.701,20,I Drink Wine,6v0UJD4a2FtleHeSYVX02A,30,Adele,2021-11-19
+520,20,2021-11-25 16:00:03.701,21,good 4 u,4ZtFanR9U6ndgddUvNcjcG,SOUR,Olivia Rodrigo,2021-05-21
+521,21,2021-11-25 16:00:03.701,22,love nwantiti (ah ah ah),2Xr1dTzJee307rmrkt8c0g,CKay The First,CKay,2019-08-30
+522,22,2021-11-25 16:00:03.701,23,Toxic,2gQPv5jvVPqU2a9HhMNO1v,Toxic,BoyWithUke,2021-10-29
+523,23,2021-11-25 16:00:03.701,24,My Little Love,2DuPBbS5mIldXnh7Wum8Cy,30,Adele,2021-11-19
+524,24,2021-11-25 16:00:03.701,25,Need to Know,3Vi5XqYrmQgOYBajMWSvCi,Planet Her,Doja Cat,2021-06-25
+525,25,2021-11-25 16:00:03.701,26,THATS WHAT I WANT,0e8nrvls4Qqv5Rfa2UhqmO,MONTERO,Lil Nas X,2021-09-17
+526,26,2021-11-25 16:00:03.701,27,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),09gysnJpfQ3ublBmJDfcEC,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae,2021-09-16
+527,27,2021-11-25 16:00:03.701,28,love nwantiti (feat. Dj Yo! & AX'EL) - Remix,4gvrJnKCKIPiacNsWVQwEU,love nwantiti (feat. Dj Yo! & AX'EL) [Remix],CKay,2021-09-09
+528,28,2021-11-25 16:00:03.701,29,Kiss Me More (feat. SZA),3DarAbFujv6eYNliUTyqtz,Planet Her,Doja Cat,2021-06-25
+529,29,2021-11-25 16:00:03.701,30,Beggin',3Wrjm47oTz2sjIgck11l5e,Chosen,Måneskin,2017-12-08
+530,30,2021-11-25 16:00:03.701,31,All I Want for Christmas Is You,0bYg9bo50gSsH3LtXe2SQn,Merry Christmas,Mariah Carey,1994-11-01
+531,31,2021-11-25 16:00:03.701,32,Happier Than Ever,4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Billie Eilish,2021-07-30
+532,32,2021-11-25 16:00:03.701,33,MONTERO (Call Me By Your Name),1SC5rEoYDGUK4NfG82494W,MONTERO,Lil Nas X,2021-09-17
+533,33,2021-11-25 16:00:03.701,34,Ghost,6I3mqTwhRpn34SLVafSH7G,Justice,Justin Bieber,2021-03-19
+534,34,2021-11-25 16:00:03.701,35,Moth To A Flame (with The Weeknd),2gpWyfu7eZ01zzncHpxOtA,Moth To A Flame,Swedish House Mafia,2021-10-22
+535,35,2021-11-25 16:00:03.701,36,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),4gzsuuZypVbxs0Af1LSZyB,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Tainy,2021-10-05
+536,36,2021-11-25 16:00:03.701,37,Where Are You Now,3uUuGVFu1V7jTQL60S1r8z,Where Are You Now,Lost Frequencies,2021-07-30
+537,37,2021-11-25 16:00:03.701,38,Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,After Hours,The Weeknd,2020-03-20
+538,38,2021-11-25 16:00:03.701,39,Strangers By Nature,13CVSGLSFl4UxpDVR6u3dq,30,Adele,2021-11-19
+539,39,2021-11-25 16:00:03.701,40,To Be Loved,10ImcQk9tihY1EKMDIbvXJ,30,Adele,2021-11-19
+540,40,2021-11-25 16:00:03.701,41,Yonaguni,2JPLbjOn0wPCngEot2STUS,Yonaguni,Bad Bunny,2021-06-04
+541,41,2021-11-25 16:00:03.701,42,Cry Your Heart Out,09u787BYeYIGd2mFIJ505t,30,Adele,2021-11-19
+542,42,2021-11-25 16:00:03.701,43,traitor,5CZ40GBx1sQ9agT82CLQCT,SOUR,Olivia Rodrigo,2021-05-21
+543,43,2021-11-25 16:00:03.701,44,Meet Me At Our Spot,07MDkzWARZaLEdKxo6yArG,THE ANXIETY,THE ANXIETY,2020-03-13
+544,44,2021-11-25 16:00:03.701,45,LA FAMA (with The Weeknd),6dmXZ9B5HdFAyzHeTneYBK,LA FAMA (with The Weeknd),ROSALÍA,2021-11-11
+545,45,2021-11-25 16:00:03.701,46,Life Goes On,0eu4C55hL6x29mmeAjytzC,"Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",Oliver Tree,2021-05-28
+546,46,2021-11-25 16:00:03.701,47,Better Days (NEIKED x Mae Muller x Polo G),6f5ExP43esnvdKPddwKXJH,Better Days (NEIKED x Mae Muller x Polo G),NEIKED,2021-09-24
+547,47,2021-11-25 16:00:03.701,48,I Love You So,4SqWKzw0CbA05TGszDgMlc,I Love You So,The Walters,2014-11-28
+548,48,2021-11-25 16:00:03.701,49,Hold On,6bGMSP3H9YqkmaLnaJTIoF,30,Adele,2021-11-19
+549,49,2021-11-25 16:00:03.701,50,All Night Parking (with Erroll Garner) Interlude,496vIKS2INz840xZaKncvR,30,Adele,2021-11-19
+550,0,2021-11-26 16:00:03.108,1,Easy On Me,46IZ0fSY2mpAiktS3KOqds,30,Adele,2021-11-19
+551,1,2021-11-26 16:00:03.108,2,STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,F*CK LOVE 3: OVER YOU,The Kid LAROI,2021-07-23
+552,2,2021-11-26 16:00:03.108,3,INDUSTRY BABY (feat. Jack Harlow),5Z9KJZvQzH6PFmb8SNkxuk,MONTERO,Lil Nas X,2021-09-17
+553,3,2021-11-26 16:00:03.108,4,Cold Heart - PNAU Remix,7rglLriMNBPAyuJOMGwi39,The Lockdown Sessions,Elton John,2021-10-22
+554,4,2021-11-26 16:00:03.108,5,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),5enxwA8aAbwZbf5qCHORXi,Red (Taylor's Version),Taylor Swift,2021-11-12
+555,5,2021-11-26 16:00:03.108,6,Oh My God,3Kkjo3cT83cw09VJyrLNwX,30,Adele,2021-11-19
+556,6,2021-11-26 16:00:03.108,7,Heat Waves,02MWAaffLxlfxAUY7c5dvx,Dreamland (+ Bonus Levels),Glass Animals,2020-08-06
+557,7,2021-11-26 16:00:03.108,8,Shivers,50nfwKoDiSYg8zOCREWAm5,=,Ed Sheeran,2021-10-29
+558,8,2021-11-26 16:00:03.108,9,abcdefu,4fouWK6XVHhzl78KzQ1UjL,abcdefu,GAYLE,2021-08-13
+559,9,2021-11-26 16:00:03.108,10,Enemy (with JID) - from the series Arcane League of Legends,1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) [from the series Arcane League of Legends],Imagine Dragons,2021-10-28
+560,10,2021-11-26 16:00:03.108,11,Pepas,2B4GHvToeLTOBB4QLzW3Ni,La 167,Farruko,2021-10-01
+561,11,2021-11-26 16:00:03.108,12,Bad Habits,3rmo8F54jFF8OgYsqTxm5d,=,Ed Sheeran,2021-10-29
+562,12,2021-11-26 16:00:03.108,13,Smokin Out The Window,7sMBvZCSUl99bJLXZaLa0b,An Evening With Silk Sonic,Bruno Mars,2021-11-11
+563,13,2021-11-26 16:00:03.108,14,My Universe,46HNZY1i7O6jwTA7Slo2PI,Music Of The Spheres,Coldplay,2021-10-15
+564,14,2021-11-26 16:00:03.108,15,Woman,6Uj1ctrBOjOas8xZXGqKk4,Planet Her,Doja Cat,2021-06-25
+565,15,2021-11-26 16:00:03.108,16,MONEY,7hU3IHwjX150XLoTVmjD0q,LALISA,LISA,2021-09-10
+566,16,2021-11-26 16:00:03.108,17,Do It To It,20on25jryn53hWghthWWW3,Do It To It,ACRAZE,2021-08-20
+567,17,2021-11-26 16:00:03.108,18,One Right Now (with The Weeknd),00Blm7zeNqgYLPtW6zg8cj,One Right Now,Post Malone,2021-11-05
+568,18,2021-11-26 16:00:03.108,19,All I Want for Christmas Is You,0bYg9bo50gSsH3LtXe2SQn,Merry Christmas,Mariah Carey,1994-11-01
+569,19,2021-11-26 16:00:03.108,20,Can I Get It,6w8ZPYdnGajyfPddTWdthN,30,Adele,2021-11-19
+570,20,2021-11-26 16:00:03.108,21,love nwantiti (ah ah ah),2Xr1dTzJee307rmrkt8c0g,CKay The First,CKay,2019-08-30
+571,21,2021-11-26 16:00:03.108,22,Toxic,2gQPv5jvVPqU2a9HhMNO1v,Toxic,BoyWithUke,2021-10-29
+572,22,2021-11-26 16:00:03.108,23,good 4 u,4ZtFanR9U6ndgddUvNcjcG,SOUR,Olivia Rodrigo,2021-05-21
+573,23,2021-11-26 16:00:03.108,24,love nwantiti (feat. Dj Yo! & AX'EL) - Remix,4gvrJnKCKIPiacNsWVQwEU,love nwantiti (feat. Dj Yo! & AX'EL) [Remix],CKay,2021-09-09
+574,24,2021-11-26 16:00:03.108,25,THATS WHAT I WANT,0e8nrvls4Qqv5Rfa2UhqmO,MONTERO,Lil Nas X,2021-09-17
+575,25,2021-11-26 16:00:03.108,26,Need to Know,3Vi5XqYrmQgOYBajMWSvCi,Planet Her,Doja Cat,2021-06-25
+576,26,2021-11-26 16:00:03.108,27,I Drink Wine,6v0UJD4a2FtleHeSYVX02A,30,Adele,2021-11-19
+577,27,2021-11-26 16:00:03.108,28,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),09gysnJpfQ3ublBmJDfcEC,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae,2021-09-16
+578,28,2021-11-26 16:00:03.108,29,Beggin',3Wrjm47oTz2sjIgck11l5e,Chosen,Måneskin,2017-12-08
+579,29,2021-11-26 16:00:03.108,30,Kiss Me More (feat. SZA),3DarAbFujv6eYNliUTyqtz,Planet Her,Doja Cat,2021-06-25
+580,30,2021-11-26 16:00:03.108,31,MONTERO (Call Me By Your Name),1SC5rEoYDGUK4NfG82494W,MONTERO,Lil Nas X,2021-09-17
+581,31,2021-11-26 16:00:03.108,32,Happier Than Ever,4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Billie Eilish,2021-07-30
+582,32,2021-11-26 16:00:03.108,33,Moth To A Flame (with The Weeknd),2gpWyfu7eZ01zzncHpxOtA,Moth To A Flame,Swedish House Mafia,2021-10-22
+583,33,2021-11-26 16:00:03.108,34,My Little Love,2DuPBbS5mIldXnh7Wum8Cy,30,Adele,2021-11-19
+584,34,2021-11-26 16:00:03.108,35,Ghost,6I3mqTwhRpn34SLVafSH7G,Justice,Justin Bieber,2021-03-19
+585,35,2021-11-26 16:00:03.108,36,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),4gzsuuZypVbxs0Af1LSZyB,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Tainy,2021-10-05
+586,36,2021-11-26 16:00:03.108,37,Where Are You Now,3uUuGVFu1V7jTQL60S1r8z,Where Are You Now,Lost Frequencies,2021-07-30
+587,37,2021-11-26 16:00:03.108,38,Yonaguni,2JPLbjOn0wPCngEot2STUS,Yonaguni,Bad Bunny,2021-06-04
+588,38,2021-11-26 16:00:03.108,39,Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,After Hours,The Weeknd,2020-03-20
+589,39,2021-11-26 16:00:03.108,40,Last Christmas,2FRnf9qhLbvw8fu4IBXx78,LAST CHRISTMAS,Wham!,1984-11-29
+590,40,2021-11-26 16:00:03.108,41,traitor,5CZ40GBx1sQ9agT82CLQCT,SOUR,Olivia Rodrigo,2021-05-21
+591,41,2021-11-26 16:00:03.108,42,LA FAMA (with The Weeknd),6dmXZ9B5HdFAyzHeTneYBK,LA FAMA (with The Weeknd),ROSALÍA,2021-11-11
+592,42,2021-11-26 16:00:03.108,43,Meet Me At Our Spot,07MDkzWARZaLEdKxo6yArG,THE ANXIETY,THE ANXIETY,2020-03-13
+593,43,2021-11-26 16:00:03.108,44,Life Goes On,0eu4C55hL6x29mmeAjytzC,"Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",Oliver Tree,2021-05-28
+594,44,2021-11-26 16:00:03.108,45,Better Days (NEIKED x Mae Muller x Polo G),6f5ExP43esnvdKPddwKXJH,Better Days (NEIKED x Mae Muller x Polo G),NEIKED,2021-09-24
+595,45,2021-11-26 16:00:03.108,46,I Love You So,4SqWKzw0CbA05TGszDgMlc,I Love You So,The Walters,2014-11-28
+596,46,2021-11-26 16:00:03.108,47,Todo De Ti,5RwV8BvLfX5injfqYodke9,VICE VERSA,Rauw Alejandro,2021-06-25
+597,47,2021-11-26 16:00:03.108,48,To Be Loved,10ImcQk9tihY1EKMDIbvXJ,30,Adele,2021-11-19
+598,48,2021-11-26 16:00:03.108,49,Volví,2vmfvSoZBFAt9hhRoEByLi,Volví,Aventura,2021-08-03
+599,49,2021-11-26 16:00:03.108,50,Mon Amour - Remix,5TMLavqGRKNxgzMBrVpC9R,Mon Amour (Remix),zzoilo,2021-08-18

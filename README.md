@@ -1,95 +1,85 @@
-# Project 3: Understanding User Behavior
+# Project 3: Tracking Spotify Trends
 
-## This is a team project, up to 4 people per team. At Week 14, you will present your project to the class.
+Group members: Jacob Barkow, Stephen Chen, Monali Narayanaswami and Prachi Varma
 
-- You have two options
+Our project serves to assemble a pipeline that queries and stores the contents of Spotify's 'Top 50 - Global' playlist, and then analyze those tracks to determine listening trends.
 
-### 1. Option 1: Mock data
+## Business Problem
 
-  - You're a data scientist at a game development company  
+Spotify's "Wrapped" is an experience that allows listeners and creators to see theire trends on the app over the last year. A user's "Wrapped" is usually released around December 1st, but only contains data from January through mid-November. Therefore, there is often a "black-box" period around the holidays where listening trends are not recorded. Our group plans to build a data pipeline to capture this data and conduct a "sentiment" analysis of users around this period of time (from 11/17/2021 - 12/02/2021). We asked questions such as:
+ * Are songs that are popular during the time period analyzed happier, more danceability, higher energy or higher tempo?
+ * Which artists tend to be most popular during the time period analyzed?
+ * How do holiday songs compare to mainstream songs?
+ * How does a popular holiday song "All I Want For Christmas" perform during the time period analyzed?
 
-  - Your latest mobile game has two events you're interested in tracking: `buy a
-    sword` & `join guild`
+## File Directory
 
-  - Each has metadata characterstic of such events (i.e., sword type, guild name,
-    etc)
+README.md - You are here
 
-### 2. Option 2: Real Data
+**pipeline**
+- docker-compose.yml - The Docker Compose file specifying the images used in the pipeline
+- ping_api.py - A Python script that runs a Flask server which queries the Spotify API when pinged and logs the response to Kafka
+- extract_playlists.py - A Python script that processes the playlist events in Kafka and stores them in HDFS
+- parquet_to_csv.py - A helper Python script which processes the contents of the parquet files and stores them as a CSV
+- crontab.txt - The cron commands used to batch automate the process
 
-  - Use your favorite API to connect to real data (Finance, News API, etc.)
+**analysis**
+- spotify-trends-analysis.ipynb - The python notebook used to unwrap the raw data files.
+- get_features.ipynb - The python notebook used to pull metrics such as valence, tempo, energy and danceability from the Spotify API.
+- global_top_50_analysis.ipynb - The python notebook used to perform data analysis and create visualization.
+- everyday_top50.csv - CSV table produced from spotify-trends-analysis.ipynb to unraw the raw data files
+- features.csv - CSV table produced from get_features.ipynb to attach audio metrics for each song id
+- final_data.csv - CSV table with complete data from everyday_top50.csv and features.csv for songs in global top 50
 
-  - Define your problem and your solution.
+## Tools Used
 
-## Tasks
+- Flask
+- Spotify API
+- Apache Kafka
+- Apache Hadoop
+- Apache Spark
+- Python
 
-- Instrument your API server to log events to Kafka
+## Data Flow - Setup
 
-- Assemble a data pipeline to catch these events: use Spark streaming to filter
-  select event types from Kafka, land them into HDFS/parquet to make them
-  available for analysis using Presto. 
+The pipeline can be created via the following procedure (note that some directory names may need to be changed depending on your environment):
 
-- Use Apache Bench to generate test data for your pipeline.
+1. Copy the contents of the pipeline directory onto the server.
+2. Use the command `docker compose up -d` to spin up the necessary images. 
+3. Create a Kafka topic called 'playlists' via the command `docker-compose exec kafka kafka-topics --create --topic playlists --partitions 1 --replication-factor 1 --if-not-exists --zookeeper zookeeper:32181`
+4. Launch the Flask server via the command `docker-compose exec mids env FLASK_APP=ping_api.py flask run --host 0.0.0.0`
+5. Run the command `crontab -e` to edit the crontab file, add the contents of 'crontab.txt' to it, and save. The currently specified timing is to begin the batch process at 8am PT but can be adjusted accordingly. Adjusting the PATH variable may also be needed depending on your environment.
 
-- Produce an analytics report where you provide a description of your pipeline
-  and some basic analysis of the events. Explaining the pipeline is key for this project!
+Once this has been completed, the pipeline will automatically query the Spotify API for the contents of the 'Top 50 - Global' playlist each morning and store the results in HDFS. It will also store the results in a CSV file, which was an intermediary step to help share data across our team. To remove this step, simply take out the final line of the crontab file.
 
-- Submit your work as a git PR as usual. AFTER you have received feedback you have to merge 
-  the branch yourself and answer to the feedback in a comment. Your grade will not be 
-  complete unless this is done!
+## Data Flow - Explanation
 
-Use a notebook or markdown to present your queries and findings. Remember that this
-notebook should be appropriate for presentation to someone else in your
-business who needs to act on your recommendations. 
+A breakdown of how data flows throughout the system is as follows:
 
-It's understood that events in this pipeline are _generated_ events which make
-them hard to connect to _actual_ business decisions.  However, we'd like
-students to demonstrate an ability to plumb this pipeline end-to-end, which
-includes initially generating test data as well as submitting a notebook-based
-report of at least simple event analytics.
+- Once launched, the Flask app on the 'mids' container will listen for requests against http://localhost:5000/. If one is received, it will call the method 'query_playlist', which launches an API GET request for the current contents of the Spotify playlist 'Top 50 - Global'. The result of this request will be a large, deeply-nested JSON, which is then logged to the Kafka topic 'playlists' created previously.
+    - We opted to not do additional JSON processing at this stage to preserve the raw data coming from Spotify as best as possible. Extracting the contents of this JSON and then querying the Spotify API for audio features is handled at the very end.
+- The Python script 'extract_playlists.py' can be run as a Spark job to process the playlist events queued via the Flask server. When run, this script will take all playlist events in Kafka, munge the timestamp onto each event and then store the results in HDFS. The current implementation overwrites the contents each time it is run.
+- The optional Python script 'parquet_to_csv.py' can be run to read the contents of the parquet files created by the Spark job and store them as a CSV. This is not a production-level step and was added to facilitate data sharing across our team and also act as a failsafe in case images went down, as our data is low-fidelity and we have no replication in this system.
+    - In a more real-world scenario, we would use Presto to select the value and timestamp fields from the parquet files and convert those into a pandas DataFrame for analysis. The conversion to CSV circumvents this step but would not be appropriate to use in a production setting - it would be best to use something like a dedicated SQL server for permanent storage, rather than CSVs.
+- As this data only updates once a day, it was appropriate to run these steps as a batch process. This was accomplished using cron, with the cron commands outlined in the 'crontab.txt' files. The batch timing we used was as follows:
+    - 8am PT: ping the Flask server to retrieve that day's Top 50 tracks and log them to Kafka
+    - 8:15am PT: run 'extract_playlists' as a Spark job to read the tracks from Kafka and store them in Hadoop
+    - 8:30am PT: read the contents of the parquet files and store them as CSVs for internal distribution.
+    
+## Analysis - Overview
+We wanted to understand how holiday songs impact the global top 50 for the time period between 11/17/2021 - 12/02/2021. We performed analysis to understand trends in the following areas:
+1. Sentiment analysis - how do songs in the top 50 for time period analyzed compare on metrics such as valence, danceability, tempo and energy. We looked at the median scores over the time period across all songs.
+2. We analyzed the frequency of artists appearing in the global top 50 during this time period to understand which artists were most popular.
+3. We also segregated holiday songs from mainstream songs to compare metrics such as valence, danceability, tempo and energy and tempo for each group.
+4. Finally we looked at one popular Christmas song "All I want for Christmas" by Mariah Carey to see how this song trended in the global top 50 during the time period analyzed.
 
-If you are doing option 1, analytics are a small part of your final product. If you are doing Option 2, you can focus more on analytics and visualizations.
+## Analysis - Conclusion
+From our analysis we found the following*:
+1. Songs in the top 50 did tend to be happier. We did see that the median valence post-Thanksgiving did trended upward, but then seemed to go down. So we do not have enough data to fully understand if the downward trend will continue or was just a dip. We also noticed that danceability was higher on the weekends and that tempo and danceability tended to be correlated.
+2. The most popular artists during the time period analyzed were all mainstream artists. Although popular songs did it make into the global top 50. The most popular artists were all mainstream artists. Adele appeared more than 2x more frequently than the next most popular artist. So we feel that despite the popularity of holiday songs, the holidays are fine time to launch new albums - like Adele di.
+3. In terms of holiday v. mainstream songs, we noticed that holiday/Christmas songs did tend to have higher valence than mainstream songs. This made sense since holiday songs tend to be happier. Holiday songs did not show much similarity in terms of valence, tempo, danceability or energy to mainstream songs. This also made sense as holiday songs are very specific genre of music.
+4. Finally, in our analysis of "All I Want for Christmas" tended to rise rapidly in popularity starting 11/23 and then dropped a bit around 11/29, but is now rising again. Here also we need more data to fully understand the trend.
 
-## Options
+*Limitations of this data set: we acknowledge that we only collected and analyzed data from 11/17 - 12/02. In a real world project, we would have collected data through Christmas and into the new year to understand trends prior to Thanksgiving, between Thanksgiving and Christmas, between Christmas and the new year and in early January to fully understand the holiday effect on the global top 50. Given this limited window of analysis, we can only share some premlinary findings.
 
-There are plenty of advanced options for this project.  Here are some ways to
-take your project further than just the basics we'll cover in class:
 
-- Generate and filter more types of events.  There are plenty of other things
-  you might capture as events.
-  
-- Enhance the API to use additional http verbs such as `POST` or `DELETE` as
-  well as additionally accept _parameters_ for events.
-
-- Connect a user-keyed storage engine such as Redis or Cassandra up to Spark so
-  you can track user state during gameplay (e.g., user's inventory or health)
-  
----
-
-#### GitHub Procedures
-
-Important:  In w205, please never merge your assignment branch to the master branch. 
-
-Using the git command line: clone down the repo, leave the master branch untouched, create an assignment branch, and move to that branch:
-- Open a linux command line to your virtual machine and be sure you are logged in as jupyter.
-- Create a ~/w205 directory if it does not already exist `mkdir ~/w205`
-- Change directory into the ~/w205 directory `cd ~/w205`
-- Clone down your repo `git clone <https url for your repo>`
-- Change directory into the repo `cd <repo name>`
-- Create an assignment branch `git branch assignment`
-- Checkout the assignment branch `git checkout assignment`
-
-The previous steps only need to be done once.  Once you your clone is on the assignment branch it will remain on that branch unless you checkout another branch.
-
-The project workflow follows this pattern, which may be repeated as many times as needed.  In fact it's best to do this frequently as it saves your work into GitHub in case your virtual machine becomes corrupt:
-- Make changes to existing files as needed.
-- Add new files as needed
-- Stage modified files `git add <filename>`
-- Commit staged files `git commit -m "<meaningful comment about your changes>"`
-- Push the commit on your assignment branch from your clone to GitHub `git push origin assignment`
-
-Once you are done, go to the GitHub web interface and create a pull request comparing the assignment branch to the master branch.  Add your instructor, and only your instructor, as the reviewer.  The date and time stamp of the pull request is considered the submission time for late penalties. 
-
-If you decide to make more changes after you have created a pull request, you can simply close the pull request (without merge!), make more changes, stage, commit, push, and create a final pull request when you are done.  Note that the last data and time stamp of the last pull request will be considered the submission time for late penalties.
-
-Make sure you receive the emails related to your repository! Your project feedback will be given as comment on the pull request. When you receive the feedback, you can address problems or simply comment that you have read the feedback. 
-AFTER receiving and answering the feedback, merge you PR to master. Your project only counts as complete once this is done.
